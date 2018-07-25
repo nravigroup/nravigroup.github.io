@@ -1,21 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1531444860303">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1532484428145">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
-    <file name="gallery.css" crc="4066342172" ref="gallery"/>
-    <file name="in-the-news.css" crc="5858098" ref="in-the-news"/>
-    <file name="publications-2000-2004.css" crc="4020886333" ref="publications-2000-2004"/>
-    <file name="publications.css" crc="497608175" ref="publications"/>
-    <file name="publications-2005-09.css" crc="4226664240" ref="publications-2005-09"/>
-    <file name="research.css" crc="77184598" ref="research"/>
-    <file name="group-ug-and-alumni.css" crc="451521862" ref="group-ug-and-alumni"/>
-    <file name="collaborators.css" crc="275474444" ref="collaborators"/>
-    <file name="group.css" crc="3828748198" ref="group"/>
-    <file name="publications-2010-15.css" crc="4096241127" ref="publications-2010-15"/>
-    <file name="ravi-bio.css" crc="502108866" ref="ravi-bio"/>
-    <file name="publications-pre-2000.css" crc="400913674" ref="publications-pre-2000"/>
-    <file name="facilities.css" crc="491044675" ref="facilities"/>
+    <file name="gallery.css" crc="285708923" ref="gallery"/>
     <file name="archive.css" crc="3833724805" ref="archive"/>
+    <file name="facilities.css" crc="491044675" ref="facilities"/>
     <file name="index.css" crc="167917961" ref="index"/>
+    <file name="ravi-bio.css" crc="502108866" ref="ravi-bio"/>
+    <file name="group.css" crc="483344511" ref="group"/>
+    <file name="collaborators.css" crc="198319401" ref="collaborators"/>
+    <file name="group-ug-and-alumni.css" crc="208497061" ref="group-ug-and-alumni"/>
+    <file name="publications-2010-15.css" crc="4096241127" ref="publications-2010-15"/>
+    <file name="research.css" crc="4057246959" ref="research"/>
+    <file name="publications-2005-09.css" crc="4226664240" ref="publications-2005-09"/>
+    <file name="publications.css" crc="497608175" ref="publications"/>
+    <file name="publications-2000-2004.css" crc="4020886333" ref="publications-2000-2004"/>
+    <file name="publications-pre-2000.css" crc="400913674" ref="publications-pre-2000"/>
+    <file name="in-the-news.css" crc="4275578991" ref="in-the-news"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:group:research:publications:in-the-news:gallery:facilities:publications-2010-15:group-ug-and-alumni:publications-2005-09:publications-2000-2004:publications-pre-2000:archive:ravi-bio:collaborators"/>
@@ -208,6 +208,9 @@
     <file name="u4929-6.png" crc="512094173" ref="in-the-news"/>
     <file name="colloquium.png" crc="4212573696" seo="true" ref="in-the-news"/>
     <file name="u5736-8.png" crc="4177276097" ref="in-the-news"/>
+    <file name="group-photo-emsi-1.jpg" crc="286938550" seo="true" ref="in-the-news"/>
+    <file name="group-photo-emsi-4.jpg" crc="4129966469" seo="true" ref="in-the-news"/>
+    <file name="u7528-8.png" crc="361572206" ref="in-the-news"/>
     <file name="u4757-6.png" crc="28842112" ref="in-the-news"/>
     <file name="u3703-4.png" crc="3966437164" ref="gallery"/>
     <file name="u3750.png" crc="526532012" ref="gallery"/>
@@ -560,7 +563,7 @@
   <file name="group.html" crc="4269764210" seo="true" mt="1531272235548" redirect="true"/>
   <file name="research.html" crc="4174782326" seo="true" mt="1528502301064" redirect="true"/>
   <file name="publications.html" crc="3808254202" seo="true" mt="1531444814860" redirect="true"/>
-  <file name="in-the-news.html" crc="341784863" seo="true" mt="1528346305188" redirect="true"/>
+  <file name="in-the-news.html" crc="158855576" seo="true" mt="1532484303237" redirect="true"/>
   <file name="gallery.html" crc="4013309618" seo="true" mt="1531441612880" redirect="true"/>
   <file name="facilities.html" crc="3844287217" seo="true" mt="1528346283489" redirect="true"/>
   <file name="publications-2010-15.html" crc="452576443" seo="true" mt="1528341734462" redirect="true"/>
