@@ -1,7 +1,7 @@
 .version.in_the_news /* version checker */
 {
-	color: #00000D;
-	background-color: #842C5F;
+	color: #000011;
+	background-color: #22A5C9;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 2112.9500000000025px;
+	min-height: 2454.950000000004px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -423,7 +423,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 25px;
-	left: 448px;
+	left: 454px;
 }
 
 #u7528-8
@@ -434,7 +434,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 268px;
-	left: 454px;
+	left: 459px;
 }
 
 #u7535
@@ -452,20 +452,9 @@
 	left: -1px;
 }
 
-#u7599-12
-{
-	z-index: 78;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 35px;
-	left: 257px;
-}
-
 #u7600
 {
-	z-index: 90;
+	z-index: 92;
 	width: 257px;
 	border-width: 1px;
 	border-style: solid;
@@ -478,9 +467,20 @@
 	left: -1px;
 }
 
+#u7599-14
+{
+	z-index: 78;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 267px;
+}
+
 #u7606
 {
-	z-index: 92;
+	z-index: 94;
 	width: 420px;
 	border-width: 1px;
 	border-style: solid;
@@ -509,16 +509,49 @@
 
 #u7612-6
 {
-	z-index: 94;
+	z-index: 96;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 64px;
-	left: 420px;
+	left: 431px;
 }
 
-#pu7599-12,#pu7606,#pu7619
+#pu7628
+{
+	width: 0.01px;
+	margin-left: 1px;
+	margin-top: 47px;
+}
+
+#u7628
+{
+	z-index: 110;
+	width: 214px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u7634-6
+{
+	z-index: 112;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 67px;
+	left: 223px;
+}
+
+#pu7600,#pu7606,#pu7619
 {
 	width: 0.01px;
 	margin-top: 47px;
@@ -526,7 +559,7 @@
 
 #u7619
 {
-	z-index: 100;
+	z-index: 102;
 	width: 420px;
 	border-width: 1px;
 	border-style: solid;
@@ -553,19 +586,19 @@
 
 #u7625-6
 {
-	z-index: 102;
+	z-index: 104;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 54px;
-	left: 420px;
+	margin-top: 67px;
+	left: 431px;
 }
 
 #u4757-6
 {
 	z-index: 46;
-	margin-top: 58px;
+	margin-top: 68px;
 	position: relative;
 }
 

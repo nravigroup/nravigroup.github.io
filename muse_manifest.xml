@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1545983850584">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1545989020895">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="gallery.css" crc="4066342172" ref="gallery"/>
@@ -14,7 +14,7 @@
     <file name="publications.css" crc="521280642" ref="publications"/>
     <file name="publications-2000-2004.css" crc="4020886333" ref="publications-2000-2004"/>
     <file name="facilities.css" crc="491044675" ref="facilities"/>
-    <file name="in-the-news.css" crc="226765919" ref="in-the-news"/>
+    <file name="in-the-news.css" crc="287483337" ref="in-the-news"/>
     <file name="publications-pre-2000.css" crc="400913674" ref="publications-pre-2000"/>
   </folder>
   <folder name="scripts">
@@ -199,8 +199,8 @@
     <file name="u3672-a.png" crc="255581431" ref="in-the-news"/>
     <file name="u4929-6.png" crc="3763927288" ref="in-the-news"/>
     <file name="colloquium.png" crc="3847559765" seo="true" ref="in-the-news"/>
-    <file name="u5736-8.png" crc="357375359" ref="in-the-news"/>
-    <file name="u7528-8.png" crc="4102586995" ref="in-the-news"/>
+    <file name="u5736-8.png" crc="126038620" ref="in-the-news"/>
+    <file name="u7528-8.png" crc="3919103824" ref="in-the-news"/>
     <file name="u4757-6.png" crc="28842112" ref="in-the-news"/>
     <file name="u3703-4.png" crc="3966437164" ref="gallery"/>
     <file name="u3750.png" crc="526532012" ref="gallery"/>
@@ -558,24 +558,26 @@
     <file name="u7583-r.png" crc="174011609" ref="research"/>
     <file name="u4231-243.png" crc="164475918" ref="publications"/>
     <file name="group-photo-emsi-4-crop-u7535.jpg" crc="3915960378" ref="in-the-news"/>
-    <file name="u7599-12.png" crc="3820923255" ref="in-the-news"/>
     <file name="tocat-noopur.jpg" crc="60355341" seo="true" ref="in-the-news"/>
     <file name="imc-aus.jpg" crc="485893012" seo="true" ref="in-the-news"/>
-    <file name="u7612-6.png" crc="4100956026" ref="in-the-news"/>
+    <file name="u7612-6.png" crc="103637617" ref="in-the-news"/>
     <file name="dsc_2693.jpg" crc="3910272990" seo="true" ref="in-the-news"/>
-    <file name="u7625-6.png" crc="216918616" ref="in-the-news"/>
+    <file name="u7625-6.png" crc="3786490203" ref="in-the-news"/>
     <file name="u7593-6.png" crc="4033414515" ref="group-ug-and-alumni"/>
     <file name="u7558-4.png" crc="4192189714" ref="archive"/>
     <file name="u7561-6.png" crc="463296306" ref="archive"/>
     <file name="u7562-4.png" crc="206676246" ref="archive"/>
     <file name="u7569.png" crc="231380012" ref="archive"/>
     <file name="u7569-r.png" crc="174011609" ref="archive"/>
+    <file name="u7599-14.png" crc="351087914" ref="in-the-news"/>
+    <file name="shwetha-germany-crop-u7628.jpg" crc="4012566173" ref="in-the-news"/>
+    <file name="u7634-6.png" crc="3802254607" ref="in-the-news"/>
   </folder>
   <file name="index.html" crc="275162737" seo="true" mt="1528341734817" redirect="true"/>
   <file name="group.html" crc="55081972" seo="true" mt="1545983770600" redirect="true"/>
   <file name="research.html" crc="3968307259" seo="true" mt="1545979029299" redirect="true"/>
   <file name="publications.html" crc="348630193" seo="true" mt="1545979356738" redirect="true"/>
-  <file name="in-the-news.html" crc="360110182" seo="true" mt="1545983606926" redirect="true"/>
+  <file name="in-the-news.html" crc="273674212" seo="true" mt="1545988979909" redirect="true"/>
   <file name="gallery.html" crc="4013309618" seo="true" mt="1531441612880" redirect="true"/>
   <file name="facilities.html" crc="3844287217" seo="true" mt="1528346283489" redirect="true"/>
   <file name="publications-2010-15.html" crc="452576443" seo="true" mt="1528341734462" redirect="true"/>
