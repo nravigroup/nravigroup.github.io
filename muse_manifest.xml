@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1545993323914">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1545993903061">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="gallery.css" crc="4066342172" ref="gallery"/>
@@ -8,7 +8,7 @@
     <file name="publications-2010-15.css" crc="4096241127" ref="publications-2010-15"/>
     <file name="group.css" crc="3884003296" ref="group"/>
     <file name="collaborators.css" crc="3780720284" ref="collaborators"/>
-    <file name="group-ug-and-alumni.css" crc="201466356" ref="group-ug-and-alumni"/>
+    <file name="group-ug-and-alumni.css" crc="168840763" ref="group-ug-and-alumni"/>
     <file name="research.css" crc="4007534023" ref="research"/>
     <file name="publications-2005-09.css" crc="4226664240" ref="publications-2005-09"/>
     <file name="publications.css" crc="521280642" ref="publications"/>
@@ -583,7 +583,7 @@
   <file name="gallery.html" crc="4013309618" seo="true" mt="1531441612880" redirect="true"/>
   <file name="facilities.html" crc="3844287217" seo="true" mt="1528346283489" redirect="true"/>
   <file name="publications-2010-15.html" crc="452576443" seo="true" mt="1528341734462" redirect="true"/>
-  <file name="group-ug-and-alumni.html" crc="3780521027" seo="true" mt="1545979896409" redirect="true"/>
+  <file name="group-ug-and-alumni.html" crc="3780521027" seo="true" mt="1545993886873" redirect="true"/>
   <file name="publications-2005-09.html" crc="66180520" seo="true" mt="1528341733979" redirect="true"/>
   <file name="publications-2000-2004.html" crc="4054137460" seo="true" mt="1528341734186" redirect="true"/>
   <file name="publications-pre-2000.html" crc="420159805" seo="true" mt="1528341734047" redirect="true"/>
