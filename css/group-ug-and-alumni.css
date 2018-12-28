@@ -1,7 +1,7 @@
 .version.group_ug_and_alumni /* version checker */
 {
-	color: #000009;
-	background-color: #E3694B;
+	color: #00000C;
+	background-color: #0221F4;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 5195.850000000005px;
+	min-height: 5323.639041095896px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -451,6 +451,28 @@
 	left: 130px;
 }
 
+#u5606
+{
+	z-index: 12;
+	width: 232px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3500px;
+	left: 710px;
+}
+
+#u5600
+{
+	z-index: 14;
+	width: 232px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3500px;
+	left: 124px;
+}
+
 #u1862-4
 {
 	z-index: 16;
@@ -458,7 +480,29 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3027px;
+	margin-top: 3407px;
+}
+
+#u1863-6
+{
+	z-index: 20;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3731px;
+	left: 598px;
+}
+
+#u1864-8
+{
+	z-index: 26;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3731px;
+	left: 20px;
 }
 
 #u1868-6
@@ -604,6 +648,126 @@
 	left: 21px;
 }
 
+#buttonu5613
+{
+	z-index: 181;
+	width: 125px;
+	border-color: #787878;
+	background-color: #FBB03B;
+	border-radius: 10px;
+	padding-bottom: 6px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3847px;
+	left: 20px;
+}
+
+#buttonu5613:hover
+{
+	background-color: #545454;
+	width: 125px;
+	min-height: 0px;
+	margin: 3847px -10000px 0px 0px;
+}
+
+#u5614-4
+{
+	z-index: 182;
+	width: 112px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #000000;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: normal;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 6px;
+}
+
+#buttonu5613:hover #u5614-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 112px;
+	margin: 7px -10000px 0px 0px;
+}
+
+#buttonu5613:hover #u5614-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#buttonu5615
+{
+	z-index: 186;
+	width: 125px;
+	border-color: #787878;
+	background-color: #FBB03B;
+	border-radius: 10px;
+	padding-bottom: 6px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3847px;
+	left: 874px;
+}
+
+#buttonu5615:hover
+{
+	background-color: #545454;
+	width: 125px;
+	min-height: 0px;
+	margin: 3847px -10000px 0px 0px;
+}
+
+#buttonu5613.ButtonSelected,#buttonu5615.ButtonSelected
+{
+	background-color: #FBB03B;
+	width: 125px;
+	min-height: 0px;
+	margin: 3847px -10000px 0px 0px;
+}
+
+#u5616-4
+{
+	z-index: 187;
+	width: 112px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #000000;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: normal;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 6px;
+}
+
+#buttonu5613.ButtonSelected #u5614-4,#buttonu5615:hover #u5616-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 112px;
+	margin: 7px -10000px 0px 0px;
+}
+
+#buttonu5615:hover #u5616-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
 #u5650
 {
 	z-index: 205;
@@ -644,9 +808,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -655,7 +819,7 @@
 	left: 6px;
 }
 
-#buttonu5656:hover #u5657-4
+#buttonu5615.ButtonSelected #u5616-4,#buttonu5656:hover #u5657-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -708,9 +872,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -764,9 +928,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -828,9 +992,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -903,9 +1067,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -970,9 +1134,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1034,9 +1198,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1098,9 +1262,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1214,9 +1378,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1278,9 +1442,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1334,9 +1498,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1398,9 +1562,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1446,7 +1610,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2547px;
+	margin-top: 2569px;
 	left: 658px;
 }
 
@@ -1499,9 +1663,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1525,36 +1689,31 @@
 	visibility: inherit;
 }
 
-#ppu5606
+#u7587
 {
-	width: 0.01px;
-	margin-left: 20px;
-	margin-top: 82px;
-}
-
-#u5606
-{
-	z-index: 12;
-	width: 232px;
+	z-index: 301;
+	width: 287px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 112px;
+	margin-top: 2967px;
+	left: 108px;
 }
 
-#u1863-6
+#u7593-6
 {
-	z-index: 20;
+	z-index: 303;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 231px;
+	margin-top: 3252px;
+	left: 20px;
 }
 
-#buttonu5615
+#buttonu7594
 {
-	z-index: 186;
+	z-index: 309;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1562,29 +1721,37 @@
 	padding-bottom: 6px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 347px;
-	left: 276px;
+	margin-top: 3339px;
+	left: 20px;
 }
 
-#buttonu5615:hover
+#buttonu7594:hover
 {
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 347px -10000px 0px 0px;
+	margin: 3339px -10000px 0px 0px;
 }
 
-#u5616-4
+#buttonu7594.ButtonSelected
 {
-	z-index: 187;
+	background-color: #FBB03B;
+	width: 125px;
+	min-height: 0px;
+	margin: 3339px -10000px 0px 0px;
+}
+
+#u7595-4
+{
+	z-index: 310;
 	width: 112px;
 	min-height: 23px;
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1593,7 +1760,7 @@
 	left: 6px;
 }
 
-#buttonu7545.ButtonSelected #u7546-4,#buttonu5615:hover #u5616-4
+#buttonu7545.ButtonSelected #u7546-4,#buttonu7594:hover #u7595-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1602,90 +1769,7 @@
 	margin: 7px -10000px 0px 0px;
 }
 
-#buttonu5615:hover #u5616-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#u5600
-{
-	z-index: 14;
-	width: 232px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 104px;
-}
-
-#u1864-8
-{
-	z-index: 26;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 231px;
-}
-
-#buttonu5613
-{
-	z-index: 181;
-	width: 125px;
-	border-color: #787878;
-	background-color: #FBB03B;
-	border-radius: 10px;
-	padding-bottom: 6px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 347px;
-}
-
-#buttonu5613:hover
-{
-	background-color: #545454;
-	width: 125px;
-	min-height: 0px;
-	margin: 347px -10000px 0px 0px;
-}
-
-#buttonu5615.ButtonSelected,#buttonu5613.ButtonSelected
-{
-	background-color: #FBB03B;
-	width: 125px;
-	min-height: 0px;
-	margin: 347px -10000px 0px 0px;
-}
-
-#u5614-4
-{
-	z-index: 182;
-	width: 112px;
-	min-height: 23px;
-	background-color: transparent;
-	color: #000000;
-	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
-	line-height: 22px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	font-weight: normal;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 6px;
-}
-
-#buttonu5615.ButtonSelected #u5616-4,#buttonu5613:hover #u5614-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 112px;
-	margin: 7px -10000px 0px 0px;
-}
-
-#buttonu5613:hover #u5614-4 p
+#buttonu7594:hover #u7595-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
@@ -1697,7 +1781,7 @@
 	margin-left: 20px;
 }
 
-#pu5606,#ppu3861-8
+#ppu3861-8
 {
 	width: 0.01px;
 	margin-right: -10000px;
@@ -1754,9 +1838,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1765,7 +1849,7 @@
 	left: 6px;
 }
 
-#buttonu5613.ButtonSelected #u5614-4,#buttonu5623:hover #u5624-4
+#buttonu7594.ButtonSelected #u7595-4,#buttonu5623:hover #u5624-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1852,9 +1936,9 @@
 	background-color: transparent;
 	color: #000000;
 	font-size: 18px;
-	text-align: center;
-	letter-spacing: 1px;
 	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1887,7 +1971,7 @@
 	visibility: inherit;
 }
 
-#buttonu5656.ButtonSelected #u5657-4 p,#buttonu5658.ButtonSelected #u5659-4 p,#buttonu5666.ButtonSelected #u5667-4 p,#buttonu5668.ButtonSelected #u5669-4 p,#buttonu5682.ButtonSelected #u5683-4 p,#buttonu5690.ButtonSelected #u5691-4 p,#buttonu5692.ButtonSelected #u5693-4 p,#buttonu5694.ButtonSelected #u5695-4 p,#buttonu5724.ButtonSelected #u5725-4 p,#buttonu5726.ButtonSelected #u5727-4 p,#buttonu5728.ButtonSelected #u5729-4 p,#buttonu5730.ButtonSelected #u5731-4 p,#buttonu7545.ButtonSelected #u7546-4 p,#buttonu5615.ButtonSelected #u5616-4 p,#buttonu5613.ButtonSelected #u5614-4 p,#buttonu5623.ButtonSelected #u5624-4 p,#buttonu5625.ButtonSelected #u5626-4 p
+#buttonu5613.ButtonSelected #u5614-4 p,#buttonu5615.ButtonSelected #u5616-4 p,#buttonu5656.ButtonSelected #u5657-4 p,#buttonu5658.ButtonSelected #u5659-4 p,#buttonu5666.ButtonSelected #u5667-4 p,#buttonu5668.ButtonSelected #u5669-4 p,#buttonu5682.ButtonSelected #u5683-4 p,#buttonu5690.ButtonSelected #u5691-4 p,#buttonu5692.ButtonSelected #u5693-4 p,#buttonu5694.ButtonSelected #u5695-4 p,#buttonu5724.ButtonSelected #u5725-4 p,#buttonu5726.ButtonSelected #u5727-4 p,#buttonu5728.ButtonSelected #u5729-4 p,#buttonu5730.ButtonSelected #u5731-4 p,#buttonu7545.ButtonSelected #u7546-4 p,#buttonu7594.ButtonSelected #u7595-4 p,#buttonu5623.ButtonSelected #u5624-4 p,#buttonu5625.ButtonSelected #u5626-4 p
 {
 	color: #000000;
 	visibility: inherit;
@@ -1906,7 +1990,7 @@
 #u4925-6
 {
 	z-index: 157;
-	margin-top: 165px;
+	margin-top: 20px;
 	position: relative;
 }
 
