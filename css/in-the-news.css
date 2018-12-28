@@ -1,7 +1,7 @@
 .version.in_the_news /* version checker */
 {
-	color: #000011;
-	background-color: #22A5C9;
+	color: #0000F6;
+	background-color: #434D8C;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 2454.950000000004px;
+	min-height: 2804.950000000005px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -441,15 +441,15 @@
 {
 	z-index: 76;
 	width: 453px;
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-bottom: -1px;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 249px;
-	left: -1px;
+	margin-top: 248px;
+	left: -2px;
 }
 
 #u7600
@@ -478,19 +478,25 @@
 	left: 267px;
 }
 
+#pu7600,#pu7606
+{
+	width: 0.01px;
+	margin-top: 47px;
+}
+
 #u7606
 {
 	z-index: 94;
 	width: 420px;
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-bottom: -1px;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
+	margin-top: -2px;
+	left: -2px;
 }
 
 #u7606_clip
@@ -551,25 +557,58 @@
 	left: 223px;
 }
 
-#pu7600,#pu7606,#pu7619
+#pu7636
 {
 	width: 0.01px;
+	margin-left: 2px;
 	margin-top: 47px;
+}
+
+#u7636
+{
+	z-index: 118;
+	width: 420px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-bottom: -2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -2px;
+}
+
+#u7642-8
+{
+	z-index: 120;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 87px;
+	left: 424px;
+}
+
+#pu7619
+{
+	width: 0.01px;
+	margin-top: 59px;
 }
 
 #u7619
 {
 	z-index: 102;
 	width: 420px;
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-bottom: -1px;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
+	margin-top: -2px;
+	left: -2px;
 }
 
 #u7619_clip
@@ -591,14 +630,14 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 67px;
-	left: 431px;
+	margin-top: 64px;
+	left: 429px;
 }
 
 #u4757-6
 {
 	z-index: 46;
-	margin-top: 68px;
+	margin-top: 44px;
 	position: relative;
 }
 
