@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1546167650275">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1546168190185">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="gallery.css" crc="4066342172" ref="gallery"/>
@@ -6,7 +6,7 @@
     <file name="index.css" crc="167917961" ref="index"/>
     <file name="ravi-bio.css" crc="502108866" ref="ravi-bio"/>
     <file name="publications-2010-15.css" crc="4096241127" ref="publications-2010-15"/>
-    <file name="group.css" crc="3884003296" ref="group"/>
+    <file name="group.css" crc="3993434731" ref="group"/>
     <file name="collaborators.css" crc="3780720284" ref="collaborators"/>
     <file name="group-ug-and-alumni.css" crc="168840763" ref="group-ug-and-alumni"/>
     <file name="research.css" crc="4007534023" ref="research"/>
@@ -86,7 +86,6 @@
     <file name="hema.png" crc="489744393" seo="true" ref="group-ug-and-alumni"/>
     <file name="u3871-16.png" crc="467992067" ref="group"/>
     <file name="shwetha.png" crc="4053715902" seo="true" ref="group"/>
-    <file name="u1704-17.png" crc="3880928569" ref="group"/>
     <file name="pavithra.png" crc="213807939" seo="true" ref="group"/>
     <file name="rajeev.png" crc="137931486" seo="true" ref="group"/>
     <file name="u1703-16.png" crc="4131352514" ref="group"/>
@@ -576,9 +575,10 @@
     <file name="u7642-8.png" crc="4136306318" ref="in-the-news"/>
     <file name="noopur-coll2.jpg" crc="3965458515" seo="true" ref="in-the-news"/>
     <file name="u7652-6.png" crc="3802039869" ref="in-the-news"/>
+    <file name="u7653-17.png" crc="3880928569" ref="group"/>
   </folder>
   <file name="index.html" crc="275162737" seo="true" mt="1528341734817" redirect="true"/>
-  <file name="group.html" crc="55081972" seo="true" mt="1545983770600" redirect="true"/>
+  <file name="group.html" crc="349584194" seo="true" mt="1546168140132" redirect="true"/>
   <file name="research.html" crc="3968307259" seo="true" mt="1545979029299" redirect="true"/>
   <file name="publications.html" crc="348630193" seo="true" mt="1545979356738" redirect="true"/>
   <file name="in-the-news.html" crc="4246344354" seo="true" mt="1546092307386" redirect="true"/>
