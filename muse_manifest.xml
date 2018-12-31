@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1546168190185">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1546250143781">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="gallery.css" crc="4066342172" ref="gallery"/>
@@ -13,7 +13,7 @@
     <file name="publications-2005-09.css" crc="4226664240" ref="publications-2005-09"/>
     <file name="publications.css" crc="521280642" ref="publications"/>
     <file name="publications-2000-2004.css" crc="4020886333" ref="publications-2000-2004"/>
-    <file name="facilities.css" crc="491044675" ref="facilities"/>
+    <file name="facilities.css" crc="4101788167" ref="facilities"/>
     <file name="in-the-news.css" crc="4211281418" ref="in-the-news"/>
     <file name="publications-pre-2000.css" crc="400913674" ref="publications-pre-2000"/>
   </folder>
@@ -329,8 +329,6 @@
     <file name="u3620.png" crc="406393924" ref="facilities"/>
     <file name="u3620-a.png" crc="255581431" ref="facilities"/>
     <file name="u1609-4.png" crc="4280042835" ref="facilities"/>
-    <file name="u1606-43.png" crc="234205143" ref="facilities"/>
-    <file name="u1607-11.png" crc="3912296452" ref="facilities"/>
     <file name="u4756-6.png" crc="28842112" ref="facilities"/>
     <file name="u3938-4.png" crc="3966437164" ref="publications-2010-15"/>
     <file name="u3936-4.png" crc="4126908805" ref="publications-2010-15"/>
@@ -576,6 +574,32 @@
     <file name="noopur-coll2.jpg" crc="3965458515" seo="true" ref="in-the-news"/>
     <file name="u7652-6.png" crc="3802039869" ref="in-the-news"/>
     <file name="u7653-17.png" crc="3880928569" ref="group"/>
+    <file name="u7689-4.png" crc="4152376448" ref="facilities"/>
+    <file name="bet.jpg" crc="106553634" seo="true" ref="facilities"/>
+    <file name="uv-vis-spectrometer.jpg" crc="3943881595" seo="true" ref="facilities"/>
+    <file name="audro2.jpg" crc="148998096" seo="true" ref="facilities"/>
+    <file name="audro.jpg" crc="277210905" seo="true" ref="facilities"/>
+    <file name="t20st.jpg" crc="338989194" seo="true" ref="facilities"/>
+    <file name="u1606-8.png" crc="394550222" ref="facilities"/>
+    <file name="u7666-19.png" crc="308975252" ref="facilities"/>
+    <file name="u7685-6.png" crc="479813911" ref="facilities"/>
+    <file name="u7686-6.png" crc="3912547151" ref="facilities"/>
+    <file name="u7687-6.png" crc="3918808534" ref="facilities"/>
+    <file name="u7690-6.png" crc="4060309049" ref="facilities"/>
+    <file name="u7697-4.png" crc="278707296" ref="facilities"/>
+    <file name="u7698-4.png" crc="3999783606" ref="facilities"/>
+    <file name="titan-g2.jpg" crc="100361667" seo="true" ref="facilities"/>
+    <file name="u7705-4.png" crc="4154765290" ref="facilities"/>
+    <file name="microwave.jpg" crc="511674232" seo="true" ref="facilities"/>
+    <file name="centrifuge.jpg" crc="533287815" seo="true" ref="facilities"/>
+    <file name="gc.jpg" crc="4014016869" seo="true" ref="facilities"/>
+    <file name="u7736-4.png" crc="4274096264" ref="facilities"/>
+    <file name="u7737-6.png" crc="288184421" ref="facilities"/>
+    <file name="u7738-6.png" crc="111395751" ref="facilities"/>
+    <file name="u7739-6.png" crc="3919329525" ref="facilities"/>
+    <file name="optical-microscope.jpg" crc="4243512514" seo="true" ref="facilities"/>
+    <file name="u7752-4.png" crc="74851019" ref="facilities"/>
+    <file name="u7753-4.png" crc="4216760744" ref="facilities"/>
   </folder>
   <file name="index.html" crc="275162737" seo="true" mt="1528341734817" redirect="true"/>
   <file name="group.html" crc="349584194" seo="true" mt="1546168140132" redirect="true"/>
@@ -583,7 +607,7 @@
   <file name="publications.html" crc="348630193" seo="true" mt="1545979356738" redirect="true"/>
   <file name="in-the-news.html" crc="4246344354" seo="true" mt="1546092307386" redirect="true"/>
   <file name="gallery.html" crc="4013309618" seo="true" mt="1531441612880" redirect="true"/>
-  <file name="facilities.html" crc="3844287217" seo="true" mt="1528346283489" redirect="true"/>
+  <file name="facilities.html" crc="4170245492" seo="true" mt="1546250114409" redirect="true"/>
   <file name="publications-2010-15.html" crc="452576443" seo="true" mt="1528341734462" redirect="true"/>
   <file name="group-ug-and-alumni.html" crc="3780521027" seo="true" mt="1545993886873" redirect="true"/>
   <file name="publications-2005-09.html" crc="66180520" seo="true" mt="1528341733979" redirect="true"/>
