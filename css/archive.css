@@ -1,7 +1,7 @@
 .version.archive /* version checker */
 {
-	color: #000014;
-	background-color: #A1CA67;
+	color: #0000E8;
+	background-color: #AFE263;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 857.1250000000006px;
+	min-height: 857.1250000000005px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
