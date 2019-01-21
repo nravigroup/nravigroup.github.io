@@ -1,7 +1,7 @@
 .version.research /* version checker */
 {
-	color: #0000EE;
-	background-color: #DE1DC7;
+	color: #00001F;
+	background-color: #8DE014;
 }
 
 .html
@@ -455,10 +455,10 @@
 	width: 125px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #000000;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -522,7 +522,7 @@
 	display: block;
 	vertical-align: top;
 	left: -1px;
-	margin-top: 18px;
+	margin-top: 23px;
 	position: relative;
 }
 
@@ -530,12 +530,12 @@
 {
 	width: 0.01px;
 	margin-left: 1px;
-	margin-top: 29px;
+	margin-top: 24px;
 }
 
 #u7572
 {
-	z-index: 208;
+	z-index: 210;
 	width: 476px;
 	border-width: 1px;
 	border-style: solid;
@@ -548,7 +548,7 @@
 	left: -1px;
 }
 
-#u7571-10
+#u7571-12
 {
 	z-index: 198;
 	display: block;
@@ -567,7 +567,7 @@
 
 #u7581-4
 {
-	z-index: 210;
+	z-index: 212;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -576,7 +576,7 @@
 
 #buttonu7582
 {
-	z-index: 214;
+	z-index: 216;
 	width: 69px;
 	border-color: #787878;
 	background-color: #00FFFF;
@@ -596,7 +596,7 @@
 
 #u7583
 {
-	z-index: 216;
+	z-index: 218;
 	height: 23px;
 	width: 60px;
 	vertical-align: top;
