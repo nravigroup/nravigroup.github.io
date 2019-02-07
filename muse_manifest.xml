@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1548066054136">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1549523094513">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="gallery.css" crc="4137852622" ref="gallery"/>
@@ -187,7 +187,7 @@
     <file name="u4010-r.png" crc="3805795324" ref="publications"/>
     <file name="u4012.png" crc="431167897" ref="publications"/>
     <file name="u4012-r.png" crc="3903945652" ref="publications"/>
-    <file name="u4231-253.png" crc="341325055" ref="publications"/>
+    <file name="u4231-253.png" crc="3783123203" ref="publications"/>
     <file name="u4754-6.png" crc="28842112" ref="publications"/>
     <file name="u3651-4.png" crc="3966437164" ref="in-the-news"/>
     <file name="u3698.png" crc="526532012" ref="in-the-news"/>
@@ -604,7 +604,7 @@
   <file name="index.html" crc="275162737" seo="true" mt="1528341734817" redirect="true"/>
   <file name="group.html" crc="349584194" seo="true" mt="1546168140132" redirect="true"/>
   <file name="research.html" crc="531950279" seo="true" mt="1548046715497" redirect="true"/>
-  <file name="publications.html" crc="488873341" seo="true" mt="1548046202056" redirect="true"/>
+  <file name="publications.html" crc="38813884" seo="true" mt="1549522953486" redirect="true"/>
   <file name="in-the-news.html" crc="3915585996" seo="true" mt="1547365819203" redirect="true"/>
   <file name="gallery.html" crc="3878360779" seo="true" mt="1548046405821" redirect="true"/>
   <file name="facilities.html" crc="4170245492" seo="true" mt="1546250114409" redirect="true"/>
