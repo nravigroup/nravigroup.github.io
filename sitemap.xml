@@ -31,13 +31,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/dipanwita.png</loc>
+    <loc>http://nravigroup.github.io/images/ahin.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/ahin.png</loc>
+    <loc>http://nravigroup.github.io/images/noopur.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,7 +61,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/noopur.png</loc>
+    <loc>http://nravigroup.github.io/images/pavithra.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,7 +73,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/pavithra.png</loc>
+    <loc>http://nravigroup.github.io/images/debadarshini-2.png</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nravigroup.github.io/images/koushik.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -85,19 +91,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/debadarshini-2.png</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nravigroup.github.io/images/ranit.png</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nravigroup.github.io/images/koushik.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -157,37 +151,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/colloquium.png</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nravigroup.github.io/images/tocat-noopur.jpg</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nravigroup.github.io/images/imc-aus.jpg</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nravigroup.github.io/images/debadarshini-ws-2018.jpg</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nravigroup.github.io/images/dsc_2693.jpg</loc>
-    <lastmod>2019-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nravigroup.github.io/images/noopur-coll2.jpg</loc>
+    <loc>http://nravigroup.github.io/images/img-20190216-wa0000.jpg</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -673,6 +637,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://nravigroup.github.io/images/rajeev2.png</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://nravigroup.github.io/images/noopur-2.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -829,6 +799,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://nravigroup.github.io/images/dipanwita.png</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://nravigroup.github.io/images/tara.png</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -853,7 +829,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nravigroup.github.io/images/img-20190216-wa0000.jpg</loc>
+    <loc>http://nravigroup.github.io/images/colloquium.png</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nravigroup.github.io/images/tocat-noopur.jpg</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nravigroup.github.io/images/imc-aus.jpg</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nravigroup.github.io/images/debadarshini-ws-2018.jpg</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nravigroup.github.io/images/dsc_2693.jpg</loc>
+    <lastmod>2019-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nravigroup.github.io/images/noopur-coll2.jpg</loc>
     <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
