@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1551352152035">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1559049778913">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
-    <file name="group.css" crc="4129689798" ref="group"/>
+    <file name="group.css" crc="351371948" ref="group"/>
     <file name="collaborators.css" crc="198319401" ref="collaborators"/>
-    <file name="group-ug-and-alumni.css" crc="429878593" ref="group-ug-and-alumni"/>
+    <file name="group-ug-and-alumni.css" crc="4023893984" ref="group-ug-and-alumni"/>
     <file name="research.css" crc="529391636" ref="research"/>
     <file name="old-news.css" crc="525199181" ref="old-news"/>
     <file name="publications-2005-09.css" crc="4226664240" ref="publications-2005-09"/>
-    <file name="publications.css" crc="4155730129" ref="publications"/>
+    <file name="publications.css" crc="4045611820" ref="publications"/>
     <file name="facilities.css" crc="4101788167" ref="facilities"/>
     <file name="publications-2000-2004.css" crc="4020886333" ref="publications-2000-2004"/>
     <file name="in-the-news.css" crc="4272255489" ref="in-the-news"/>
@@ -47,7 +47,7 @@
     <file name="u2901-a.png" crc="4060423407" ref="index"/>
     <file name="u2908.png" crc="406393924" ref="index"/>
     <file name="u2908-a.png" crc="255581431" ref="index"/>
-    <file name="u392-7.png" crc="3949662097" ref="index"/>
+    <file name="u392-7.png" crc="404729236" ref="index"/>
     <file name="u1521-4.png" crc="3920533573" ref="index"/>
     <file name="address_web_icon.png" crc="290439918" seo="true" ref="index"/>
     <file name="u1584-12.png" crc="4056018451" ref="index"/>
@@ -74,18 +74,17 @@
     <file name="group-2.jpg" crc="4059702939" seo="true" ref="group"/>
     <file name="u4766-6.png" crc="3919453945" ref="group"/>
     <file name="u1695-4.png" crc="518647425" ref="group"/>
-    <file name="ahin.png" crc="507996637" seo="true" ref="group"/>
+    <file name="ahin.png" crc="440722111" seo="true" ref="group"/>
     <file name="u1691-4.png" crc="464351799" ref="group"/>
-    <file name="u1696-10.png" crc="422939450" ref="group"/>
+    <file name="u1696-10.png" crc="310141322" ref="group"/>
     <file name="u1697-14.png" crc="3913638331" ref="group"/>
-    <file name="u1705-16.png" crc="483450401" ref="group"/>
-    <file name="noopur.png" crc="251476136" seo="true" ref="group"/>
+    <file name="noopur.png" crc="251476136" seo="true" ref="group-ug-and-alumni"/>
     <file name="sir.png" crc="209890561" seo="true" ref="group:ravi-bio"/>
     <file name="u4768-4.png" crc="4252444708" ref="group"/>
     <file name="deepa-ma-am.png" crc="385796863" seo="true" ref="group"/>
-    <file name="u4775-12.png" crc="76934128" ref="group"/>
+    <file name="u4775-12.png" crc="4048101802" ref="group"/>
     <file name="u1692-4.png" crc="134998679" ref="group"/>
-    <file name="u3871-16.png" crc="140341352" ref="group"/>
+    <file name="u3871-16.png" crc="146554396" ref="group"/>
     <file name="shwetha.png" crc="4270668545" seo="true" ref="group"/>
     <file name="u7653-17.png" crc="3880928569" ref="group"/>
     <file name="pavithra.png" crc="213807939" seo="true" ref="group"/>
@@ -96,14 +95,11 @@
     <file name="koushik.png" crc="4266106115" seo="true" ref="group"/>
     <file name="u3865-16.png" crc="3959996725" ref="group"/>
     <file name="meghabarna.png" crc="3985858111" seo="true" ref="group"/>
-    <file name="u3866-16.png" crc="233718124" ref="group"/>
+    <file name="u3866-16.png" crc="4215381762" ref="group"/>
     <file name="ranit.png" crc="4198485306" seo="true" ref="group"/>
-    <file name="u3867-16.png" crc="123775807" ref="group"/>
-    <file name="u4782-4.png" crc="136094435" ref="group"/>
-    <file name="angana.png" crc="501537809" seo="true" ref="group"/>
-    <file name="u7556-14.png" crc="4245015756" ref="group"/>
-    <file name="sandhra.jpg" crc="3976401323" seo="true" ref="group"/>
-    <file name="u4783-14.png" crc="272171427" ref="group"/>
+    <file name="u3867-16.png" crc="293558651" ref="group"/>
+    <file name="angana.png" crc="254580525" seo="true" ref="group-ug-and-alumni"/>
+    <file name="sandhra.jpg" crc="4200710143" seo="true" ref="group-ug-and-alumni"/>
     <file name="u5636.png" crc="3866532346" ref="group"/>
     <file name="u5636-r.png" crc="4054587480" ref="group"/>
     <file name="u4755-6.png" crc="28842112" ref="group"/>
@@ -186,7 +182,6 @@
     <file name="u4010-r.png" crc="3805795324" ref="publications"/>
     <file name="u4012.png" crc="431167897" ref="publications"/>
     <file name="u4012-r.png" crc="3903945652" ref="publications"/>
-    <file name="u4231-253.png" crc="3783123203" ref="publications"/>
     <file name="u4754-6.png" crc="28842112" ref="publications"/>
     <file name="u3651-4.png" crc="3966437164" ref="in-the-news"/>
     <file name="u3698.png" crc="526532012" ref="in-the-news"/>
@@ -621,16 +616,20 @@
     <file name="noopur-coll2.jpg" crc="3965458515" seo="true" ref="old-news"/>
     <file name="u8030-6.png" crc="3802039869" ref="old-news"/>
     <file name="u8005-6.png" crc="28842112" ref="old-news"/>
+    <file name="u4231-260.png" crc="4057609721" ref="publications"/>
+    <file name="u8052-6.png" crc="260402092" ref="group-ug-and-alumni"/>
+    <file name="u8095-8.png" crc="4206540353" ref="group-ug-and-alumni"/>
+    <file name="u8106-8.png" crc="3984584400" ref="group-ug-and-alumni"/>
   </folder>
-  <file name="index.html" crc="275162737" seo="true" mt="1528341734817" redirect="true"/>
-  <file name="group.html" crc="4160709571" seo="true" mt="1550246459667" redirect="true"/>
+  <file name="index.html" crc="3984460396" seo="true" mt="1556769018209" redirect="true"/>
+  <file name="group.html" crc="31165676" seo="true" mt="1559049563432" redirect="true"/>
   <file name="research.html" crc="531950279" seo="true" mt="1548046715497" redirect="true"/>
-  <file name="publications.html" crc="38813884" seo="true" mt="1549522953486" redirect="true"/>
+  <file name="publications.html" crc="3873151541" seo="true" mt="1559049008941" redirect="true"/>
   <file name="in-the-news.html" crc="404153191" seo="true" mt="1551351636978" redirect="true"/>
   <file name="gallery.html" crc="3878360779" seo="true" mt="1551351813622" redirect="true"/>
   <file name="facilities.html" crc="4170245492" seo="true" mt="1546250114409" redirect="true"/>
   <file name="publications-2010-15.html" crc="452576443" seo="true" mt="1528341734462" redirect="true"/>
-  <file name="group-ug-and-alumni.html" crc="4201705614" seo="true" mt="1550245801904" redirect="true"/>
+  <file name="group-ug-and-alumni.html" crc="3793863545" seo="true" mt="1559049746336" redirect="true"/>
   <file name="publications-2005-09.html" crc="66180520" seo="true" mt="1528341733979" redirect="true"/>
   <file name="publications-2000-2004.html" crc="4054137460" seo="true" mt="1528341734186" redirect="true"/>
   <file name="publications-pre-2000.html" crc="420159805" seo="true" mt="1528341734047" redirect="true"/>
