@@ -1,7 +1,7 @@
 .version.gallery /* version checker */
 {
-	color: #00000D;
-	background-color: #944F00;
+	color: #0000E7;
+	background-color: #856FB2;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1725.95px;
+	min-height: 1725.9499999999982px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,13 +25,13 @@
 
 #page_position_content
 {
-	padding-bottom: 13px;
+	padding-bottom: 26px;
 	width: 0.01px;
 }
 
 #u7809
 {
-	z-index: 467;
+	z-index: 461;
 	width: 1020px;
 	background-color: #FBB03B;
 	padding-bottom: 28px;
@@ -41,7 +41,7 @@
 
 #u7810-4
 {
-	z-index: 468;
+	z-index: 462;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -57,7 +57,7 @@
 
 #menuu7811
 {
-	z-index: 472;
+	z-index: 466;
 	width: 1020px;
 	border-style: none;
 	border-color: transparent;
@@ -375,7 +375,7 @@
 
 #u7861
 {
-	z-index: 509;
+	z-index: 503;
 	width: 1020px;
 	background-color: transparent;
 	position: relative;
@@ -389,7 +389,7 @@
 
 #u4986-5
 {
-	z-index: 8;
+	z-index: 2;
 	display: block;
 	vertical-align: top;
 	left: -1px;
@@ -399,7 +399,7 @@
 
 #u4989-4
 {
-	z-index: 17;
+	z-index: 11;
 	left: -1px;
 	margin-top: 14px;
 	position: relative;
@@ -407,7 +407,7 @@
 
 #slideshowu5076
 {
-	z-index: 27;
+	z-index: 21;
 	width: 0.01px;
 	height: 664px;
 	margin-left: 69px;
@@ -430,12 +430,12 @@
 
 #u5080popup
 {
-	z-index: 28;
+	z-index: 22;
 }
 
 #u5751
 {
-	z-index: 29;
+	z-index: 23;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -453,7 +453,7 @@
 
 #u5318
 {
-	z-index: 31;
+	z-index: 25;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -471,7 +471,7 @@
 
 #u7229
 {
-	z-index: 33;
+	z-index: 27;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -489,7 +489,7 @@
 
 #u6091
 {
-	z-index: 35;
+	z-index: 29;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -501,7 +501,7 @@
 
 #u6105
 {
-	z-index: 37;
+	z-index: 31;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -519,7 +519,7 @@
 
 #u5836
 {
-	z-index: 39;
+	z-index: 33;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -531,7 +531,7 @@
 
 #u5300
 {
-	z-index: 41;
+	z-index: 35;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -549,7 +549,7 @@
 
 #u5291
 {
-	z-index: 43;
+	z-index: 37;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -561,7 +561,7 @@
 
 #u5309
 {
-	z-index: 45;
+	z-index: 39;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -579,7 +579,7 @@
 
 #u5264
 {
-	z-index: 47;
+	z-index: 41;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -597,7 +597,7 @@
 
 #u5282
 {
-	z-index: 49;
+	z-index: 43;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -615,7 +615,7 @@
 
 #u5255
 {
-	z-index: 51;
+	z-index: 45;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -632,7 +632,7 @@
 
 #u5237
 {
-	z-index: 53;
+	z-index: 47;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -650,7 +650,7 @@
 
 #u7287
 {
-	z-index: 55;
+	z-index: 49;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -668,7 +668,7 @@
 
 #u7316
 {
-	z-index: 57;
+	z-index: 51;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -686,7 +686,7 @@
 
 #u5342
 {
-	z-index: 59;
+	z-index: 53;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -698,7 +698,7 @@
 
 #u5351
 {
-	z-index: 61;
+	z-index: 55;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -710,7 +710,7 @@
 
 #u5360
 {
-	z-index: 63;
+	z-index: 57;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -728,7 +728,7 @@
 
 #u5937
 {
-	z-index: 65;
+	z-index: 59;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -740,7 +740,7 @@
 
 #u5946
 {
-	z-index: 67;
+	z-index: 61;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -752,7 +752,7 @@
 
 #u5955
 {
-	z-index: 69;
+	z-index: 63;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -764,7 +764,7 @@
 
 #u5964
 {
-	z-index: 71;
+	z-index: 65;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -776,7 +776,7 @@
 
 #u5973
 {
-	z-index: 73;
+	z-index: 67;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -788,7 +788,7 @@
 
 #u5982
 {
-	z-index: 75;
+	z-index: 69;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -800,7 +800,7 @@
 
 #u5228
 {
-	z-index: 77;
+	z-index: 71;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -817,7 +817,7 @@
 
 #u5081
 {
-	z-index: 79;
+	z-index: 73;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -834,7 +834,7 @@
 
 #u5919
 {
-	z-index: 81;
+	z-index: 75;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -851,7 +851,7 @@
 
 #u7269
 {
-	z-index: 83;
+	z-index: 77;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -863,7 +863,7 @@
 
 #u5928
 {
-	z-index: 85;
+	z-index: 79;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -875,7 +875,7 @@
 
 #u5910
 {
-	z-index: 87;
+	z-index: 81;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -887,7 +887,7 @@
 
 #u7247
 {
-	z-index: 89;
+	z-index: 83;
 	width: 974px;
 	height: 838px;
 	background-color: transparent;
@@ -915,12 +915,12 @@
 
 #u5089popup
 {
-	z-index: 91;
+	z-index: 85;
 }
 
 #u5754
 {
-	z-index: 92;
+	z-index: 86;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -940,7 +940,7 @@
 
 #u5321
 {
-	z-index: 94;
+	z-index: 88;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -961,7 +961,7 @@
 
 #u7232
 {
-	z-index: 96;
+	z-index: 90;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -975,7 +975,7 @@
 
 #u6094
 {
-	z-index: 98;
+	z-index: 92;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -989,7 +989,7 @@
 
 #u6108
 {
-	z-index: 100;
+	z-index: 94;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1003,7 +1003,7 @@
 
 #u5839
 {
-	z-index: 102;
+	z-index: 96;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1025,7 +1025,7 @@
 
 #u5303
 {
-	z-index: 104;
+	z-index: 98;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1039,7 +1039,7 @@
 
 #u5294
 {
-	z-index: 106;
+	z-index: 100;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1053,7 +1053,7 @@
 
 #u5312
 {
-	z-index: 108;
+	z-index: 102;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1067,7 +1067,7 @@
 
 #u5267
 {
-	z-index: 110;
+	z-index: 104;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1087,7 +1087,7 @@
 
 #u5285
 {
-	z-index: 112;
+	z-index: 106;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1101,7 +1101,7 @@
 
 #u5258
 {
-	z-index: 114;
+	z-index: 108;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1129,7 +1129,7 @@
 
 #u5240
 {
-	z-index: 116;
+	z-index: 110;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1149,7 +1149,7 @@
 
 #u7290
 {
-	z-index: 118;
+	z-index: 112;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1168,7 +1168,7 @@
 
 #u7319
 {
-	z-index: 120;
+	z-index: 114;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1182,7 +1182,7 @@
 
 #u5345
 {
-	z-index: 122;
+	z-index: 116;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1196,7 +1196,7 @@
 
 #u5354
 {
-	z-index: 124;
+	z-index: 118;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1210,7 +1210,7 @@
 
 #u5363
 {
-	z-index: 126;
+	z-index: 120;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1232,7 +1232,7 @@
 
 #u5940
 {
-	z-index: 128;
+	z-index: 122;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1246,7 +1246,7 @@
 
 #u5949
 {
-	z-index: 130;
+	z-index: 124;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1260,7 +1260,7 @@
 
 #u5958
 {
-	z-index: 132;
+	z-index: 126;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1274,7 +1274,7 @@
 
 #u5967
 {
-	z-index: 134;
+	z-index: 128;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1288,7 +1288,7 @@
 
 #u5976
 {
-	z-index: 136;
+	z-index: 130;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1302,7 +1302,7 @@
 
 #u5985
 {
-	z-index: 138;
+	z-index: 132;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1324,7 +1324,7 @@
 
 #u5231
 {
-	z-index: 140;
+	z-index: 134;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1344,7 +1344,7 @@
 
 #u5092
 {
-	z-index: 142;
+	z-index: 136;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1371,7 +1371,7 @@
 
 #u5922
 {
-	z-index: 144;
+	z-index: 138;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1385,7 +1385,7 @@
 
 #u7272
 {
-	z-index: 146;
+	z-index: 140;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1399,7 +1399,7 @@
 
 #u5931
 {
-	z-index: 148;
+	z-index: 142;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1413,7 +1413,7 @@
 
 #u5913
 {
-	z-index: 150;
+	z-index: 144;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1435,7 +1435,7 @@
 
 #u7250
 {
-	z-index: 152;
+	z-index: 146;
 	width: 135px;
 	height: 101px;
 	border-style: none;
@@ -1466,18 +1466,18 @@
 
 #u5098popup
 {
-	z-index: 154;
+	z-index: 148;
 }
 
 #u5757-4
 {
-	z-index: 155;
+	z-index: 149;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1485,13 +1485,13 @@
 
 #u5324-6
 {
-	z-index: 159;
+	z-index: 153;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1499,13 +1499,13 @@
 
 #u7235-4
 {
-	z-index: 165;
+	z-index: 159;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1513,13 +1513,13 @@
 
 #u6097-4
 {
-	z-index: 169;
+	z-index: 163;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1527,13 +1527,13 @@
 
 #u6111-4
 {
-	z-index: 173;
+	z-index: 167;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1541,13 +1541,13 @@
 
 #u5842-4
 {
-	z-index: 177;
+	z-index: 171;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1555,13 +1555,13 @@
 
 #u5306-4
 {
-	z-index: 181;
+	z-index: 175;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1569,13 +1569,13 @@
 
 #u5297-6
 {
-	z-index: 185;
+	z-index: 179;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1583,13 +1583,13 @@
 
 #u5315-6
 {
-	z-index: 191;
+	z-index: 185;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1597,13 +1597,13 @@
 
 #u5270-4
 {
-	z-index: 197;
+	z-index: 191;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1611,13 +1611,13 @@
 
 #u5288-4
 {
-	z-index: 201;
+	z-index: 195;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1625,13 +1625,13 @@
 
 #u5261-6
 {
-	z-index: 205;
+	z-index: 199;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1639,13 +1639,13 @@
 
 #u5243-4
 {
-	z-index: 211;
+	z-index: 205;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1653,13 +1653,13 @@
 
 #u7293-4
 {
-	z-index: 215;
+	z-index: 209;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1667,13 +1667,13 @@
 
 #u7322-4
 {
-	z-index: 219;
+	z-index: 213;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1681,13 +1681,13 @@
 
 #u5348-4
 {
-	z-index: 223;
+	z-index: 217;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1695,13 +1695,13 @@
 
 #u5357-4
 {
-	z-index: 227;
+	z-index: 221;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1709,13 +1709,13 @@
 
 #u5366-6
 {
-	z-index: 231;
+	z-index: 225;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1723,13 +1723,13 @@
 
 #u5943-4
 {
-	z-index: 237;
+	z-index: 231;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1737,13 +1737,13 @@
 
 #u5952-4
 {
-	z-index: 241;
+	z-index: 235;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1751,13 +1751,13 @@
 
 #u5961-4
 {
-	z-index: 245;
+	z-index: 239;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1765,13 +1765,13 @@
 
 #u5970-4
 {
-	z-index: 249;
+	z-index: 243;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1779,13 +1779,13 @@
 
 #u5979-4
 {
-	z-index: 253;
+	z-index: 247;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1793,13 +1793,13 @@
 
 #u5988-4
 {
-	z-index: 257;
+	z-index: 251;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1807,13 +1807,13 @@
 
 #u5234-4
 {
-	z-index: 261;
+	z-index: 255;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1821,13 +1821,13 @@
 
 #u5100-4
 {
-	z-index: 265;
+	z-index: 259;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1835,13 +1835,13 @@
 
 #u5925-4
 {
-	z-index: 269;
+	z-index: 263;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1849,13 +1849,13 @@
 
 #u7275-4
 {
-	z-index: 273;
+	z-index: 267;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1863,13 +1863,13 @@
 
 #u5934-4
 {
-	z-index: 277;
+	z-index: 271;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1877,13 +1877,13 @@
 
 #u5916-6
 {
-	z-index: 281;
+	z-index: 275;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1891,13 +1891,13 @@
 
 #u7253-6
 {
-	z-index: 287;
+	z-index: 281;
 	width: 685px;
 	min-height: 40px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -1914,9 +1914,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 922px;
 	left: 780px;
@@ -1924,7 +1924,7 @@
 
 #u5096-4popup
 {
-	z-index: 293;
+	z-index: 287;
 }
 
 #u5088-4
@@ -1933,9 +1933,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 922px;
 	left: 880px;
@@ -1943,7 +1943,7 @@
 
 #u5088-4popup
 {
-	z-index: 297;
+	z-index: 291;
 }
 
 #u5087-4
@@ -1952,9 +1952,9 @@
 	width: 70px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 922px;
 	left: 810px;
@@ -1962,7 +1962,7 @@
 
 #u5087-4popup
 {
-	z-index: 301;
+	z-index: 295;
 }
 
 .MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
@@ -1977,7 +1977,7 @@
 
 #u7057-4
 {
-	z-index: 305;
+	z-index: 299;
 	display: block;
 	vertical-align: top;
 	left: -2px;
@@ -1987,7 +1987,7 @@
 
 #slideshowu7076
 {
-	z-index: 309;
+	z-index: 303;
 	width: 0.01px;
 	height: 55px;
 	margin-left: 270px;
@@ -2011,12 +2011,12 @@
 
 #u7091popup
 {
-	z-index: 310;
+	z-index: 304;
 }
 
 #u7330
 {
-	z-index: 311;
+	z-index: 305;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2028,7 +2028,7 @@
 
 #u7368
 {
-	z-index: 313;
+	z-index: 307;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2046,7 +2046,7 @@
 
 #u7429
 {
-	z-index: 315;
+	z-index: 309;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2064,7 +2064,7 @@
 
 #u7173
 {
-	z-index: 317;
+	z-index: 311;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2082,7 +2082,7 @@
 
 #u7182
 {
-	z-index: 319;
+	z-index: 313;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2100,7 +2100,7 @@
 
 #u7164
 {
-	z-index: 321;
+	z-index: 315;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2117,7 +2117,7 @@
 
 #u7387
 {
-	z-index: 323;
+	z-index: 317;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2134,7 +2134,7 @@
 
 #u7414
 {
-	z-index: 325;
+	z-index: 319;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2152,7 +2152,7 @@
 
 #u7094
 {
-	z-index: 327;
+	z-index: 321;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2170,7 +2170,7 @@
 
 #u7353
 {
-	z-index: 329;
+	z-index: 323;
 	width: 962px;
 	height: 613px;
 	background-color: transparent;
@@ -2197,12 +2197,12 @@
 
 #u7080popup
 {
-	z-index: 331;
+	z-index: 325;
 }
 
 #u7333
 {
-	z-index: 332;
+	z-index: 326;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2214,7 +2214,7 @@
 
 #u7371
 {
-	z-index: 334;
+	z-index: 328;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2227,7 +2227,7 @@
 
 #u7432
 {
-	z-index: 336;
+	z-index: 330;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2240,7 +2240,7 @@
 
 #u7176
 {
-	z-index: 338;
+	z-index: 332;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2259,7 +2259,7 @@
 
 #u7185
 {
-	z-index: 340;
+	z-index: 334;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2272,7 +2272,7 @@
 
 #u7167
 {
-	z-index: 342;
+	z-index: 336;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2291,7 +2291,7 @@
 
 #u7390
 {
-	z-index: 344;
+	z-index: 338;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2304,7 +2304,7 @@
 
 #u7417
 {
-	z-index: 346;
+	z-index: 340;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2318,7 +2318,7 @@
 
 #u7083
 {
-	z-index: 348;
+	z-index: 342;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2339,7 +2339,7 @@
 
 #u7356
 {
-	z-index: 350;
+	z-index: 344;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2371,12 +2371,12 @@
 
 #u7098popup
 {
-	z-index: 352;
+	z-index: 346;
 }
 
 #u7336-4
 {
-	z-index: 353;
+	z-index: 347;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2389,7 +2389,7 @@
 
 #u7374-4
 {
-	z-index: 357;
+	z-index: 351;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2402,7 +2402,7 @@
 
 #u7435-4
 {
-	z-index: 361;
+	z-index: 355;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2415,7 +2415,7 @@
 
 #u7179-4
 {
-	z-index: 365;
+	z-index: 359;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2428,7 +2428,7 @@
 
 #u7188-4
 {
-	z-index: 369;
+	z-index: 363;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2441,7 +2441,7 @@
 
 #u7170-4
 {
-	z-index: 373;
+	z-index: 367;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2454,7 +2454,7 @@
 
 #u7393-4
 {
-	z-index: 377;
+	z-index: 371;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2467,7 +2467,7 @@
 
 #u7420-4
 {
-	z-index: 381;
+	z-index: 375;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2480,7 +2480,7 @@
 
 #u7100-4
 {
-	z-index: 385;
+	z-index: 379;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2493,7 +2493,7 @@
 
 #u7359-4
 {
-	z-index: 389;
+	z-index: 383;
 	width: 554px;
 	min-height: 22px;
 	background-color: transparent;
@@ -2510,9 +2510,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 700px;
 	left: 431px;
@@ -2520,7 +2520,7 @@
 
 #u7089-4popup
 {
-	z-index: 393;
+	z-index: 387;
 }
 
 #u7087-4
@@ -2529,9 +2529,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 700px;
 	left: 531px;
@@ -2539,7 +2539,7 @@
 
 #u7087-4popup
 {
-	z-index: 397;
+	z-index: 391;
 }
 
 #u7090-4
@@ -2548,9 +2548,9 @@
 	width: 70px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 700px;
 	left: 461px;
@@ -2558,12 +2558,12 @@
 
 #u7090-4popup
 {
-	z-index: 401;
+	z-index: 395;
 }
 
 #u4987-4
 {
-	z-index: 13;
+	z-index: 7;
 	display: block;
 	vertical-align: top;
 	left: -2px;
@@ -2573,14 +2573,20 @@
 
 #u4990-6
 {
-	z-index: 21;
+	z-index: 15;
 	margin-top: 16px;
 	position: relative;
 }
 
+#u4989-4_img,#u4990-6_img
+{
+	display: block;
+	vertical-align: top;
+}
+
 #slideshowu6944
 {
-	z-index: 405;
+	z-index: 399;
 	width: 0.01px;
 	height: 55px;
 	margin-left: 267px;
@@ -2600,12 +2606,12 @@
 
 #u6960popup
 {
-	z-index: 406;
+	z-index: 400;
 }
 
 #u7046
 {
-	z-index: 407;
+	z-index: 401;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2624,7 +2630,7 @@
 
 #u7460
 {
-	z-index: 409;
+	z-index: 403;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2637,7 +2643,7 @@
 
 #u7001
 {
-	z-index: 411;
+	z-index: 405;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2650,7 +2656,7 @@
 
 #u7016
 {
-	z-index: 413;
+	z-index: 407;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2676,7 +2682,7 @@
 
 #u7031
 {
-	z-index: 415;
+	z-index: 409;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -2706,18 +2712,18 @@
 
 #u6954popup
 {
-	z-index: 417;
+	z-index: 411;
 }
 
 #u7049-4
 {
-	z-index: 418;
+	z-index: 412;
 	width: 480px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -2725,13 +2731,13 @@
 
 #u7463-4
 {
-	z-index: 422;
+	z-index: 416;
 	width: 480px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -2739,13 +2745,13 @@
 
 #u7004-6
 {
-	z-index: 426;
+	z-index: 420;
 	width: 480px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -2753,13 +2759,13 @@
 
 #u7019-6
 {
-	z-index: 432;
+	z-index: 426;
 	width: 480px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -2767,13 +2773,13 @@
 
 #u7034-6
 {
-	z-index: 438;
+	z-index: 432;
 	width: 480px;
 	min-height: 42px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -2785,9 +2791,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 981px;
 	left: 408px;
@@ -2795,7 +2801,7 @@
 
 #u6959-4popup
 {
-	z-index: 444;
+	z-index: 438;
 }
 
 #u6967-4
@@ -2804,9 +2810,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 981px;
 	left: 508px;
@@ -2814,7 +2820,7 @@
 
 #u6967-4popup
 {
-	z-index: 448;
+	z-index: 442;
 }
 
 #u6953-4
@@ -2823,9 +2829,9 @@
 	width: 70px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 981px;
 	left: 438px;
@@ -2833,7 +2839,7 @@
 
 #u6953-4popup
 {
-	z-index: 452;
+	z-index: 446;
 }
 
 #u6945
@@ -2852,12 +2858,12 @@
 
 #u6945popup
 {
-	z-index: 456;
+	z-index: 450;
 }
 
 #u7043
 {
-	z-index: 457;
+	z-index: 451;
 	width: 978px;
 	height: 764px;
 	background-color: transparent;
@@ -2874,7 +2880,7 @@
 
 #u7464
 {
-	z-index: 459;
+	z-index: 453;
 	width: 978px;
 	height: 764px;
 	background-color: transparent;
@@ -2898,7 +2904,7 @@
 
 #u6998
 {
-	z-index: 461;
+	z-index: 455;
 	width: 978px;
 	height: 764px;
 	background-color: transparent;
@@ -2915,7 +2921,7 @@
 
 #u7013
 {
-	z-index: 463;
+	z-index: 457;
 	width: 978px;
 	height: 764px;
 	background-color: transparent;
@@ -2932,7 +2938,7 @@
 
 #u7028
 {
-	z-index: 465;
+	z-index: 459;
 	width: 978px;
 	height: 764px;
 	background-color: transparent;
@@ -2947,18 +2953,13 @@
 	padding: 98px 207px;
 }
 
-#u4758-6
+#u8180-4
 {
-	z-index: 2;
-	left: -1px;
-	margin-top: 78px;
-	position: relative;
-}
-
-#u4989-4_img,#u4990-6_img,#u4758-6_img
-{
+	z-index: 505;
 	display: block;
 	vertical-align: top;
+	margin-top: 81px;
+	position: relative;
 }
 
 body

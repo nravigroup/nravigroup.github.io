@@ -1,7 +1,7 @@
 .version.group /* version checker */
 {
-	color: #0000F7;
-	background-color: #32D132;
+	color: #0000ED;
+	background-color: #95C1D3;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 6177px;
+	min-height: 5650px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -24,13 +24,13 @@
 
 #page_position_content
 {
-	padding-bottom: 16px;
+	padding-bottom: 32px;
 	width: 0.01px;
 }
 
 #u3546
 {
-	z-index: 14;
+	z-index: 12;
 	width: 1020px;
 	background-color: #FBB03B;
 	padding-bottom: 28px;
@@ -39,7 +39,7 @@
 
 #u3547-4
 {
-	z-index: 126;
+	z-index: 106;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -56,7 +56,7 @@
 
 #u4261
 {
-	z-index: 12;
+	z-index: 10;
 	width: 1020px;
 	background-color: transparent;
 	position: relative;
@@ -70,7 +70,7 @@
 
 #menuu3548
 {
-	z-index: 15;
+	z-index: 13;
 	width: 1020px;
 	border-style: none;
 	border-color: transparent;
@@ -393,7 +393,7 @@
 
 #u1690-6
 {
-	z-index: 52;
+	z-index: 50;
 	display: block;
 	vertical-align: top;
 	margin-top: 4px;
@@ -402,7 +402,7 @@
 
 #u8119
 {
-	z-index: 353;
+	z-index: 321;
 	width: 808px;
 	border-style: none;
 	border-color: transparent;
@@ -414,7 +414,7 @@
 
 #u4766-6
 {
-	z-index: 289;
+	z-index: 257;
 	display: block;
 	vertical-align: top;
 	margin-left: 1px;
@@ -425,56 +425,34 @@
 
 #u1695-4
 {
-	z-index: 66;
+	z-index: 60;
 	display: block;
 	vertical-align: top;
 	margin-top: 37px;
 	position: relative;
 }
 
-#pu4591
+#pu1692-4
 {
 	width: 0.01px;
 	margin-left: -1px;
 	margin-top: 19px;
 }
 
-#u4591
-{
-	z-index: 10;
-	width: 288px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 885px;
-	left: 160px;
-}
-
-#u1691-4
-{
-	z-index: 58;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 766px;
-	left: 2px;
-}
-
 #u1692-4
 {
-	z-index: 62;
+	z-index: 56;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1302px;
-	left: 1px;
+	margin-top: 785px;
+	left: 2px;
 }
 
 #u1696-10
 {
-	z-index: 70;
+	z-index: 64;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -483,31 +461,20 @@
 	left: 423px;
 }
 
-#u1697-14
-{
-	z-index: 80;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 923px;
-	left: 467px;
-}
-
 #u3871-16
 {
-	z-index: 178;
+	z-index: 158;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1712px;
-	left: 535px;
+	margin-top: 1195px;
+	left: 536px;
 }
 
 #buttonu4499
 {
-	z-index: 194;
+	z-index: 174;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -537,15 +504,15 @@
 
 #u4500-6
 {
-	z-index: 195;
+	z-index: 175;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -571,7 +538,7 @@
 
 #buttonu4502
 {
-	z-index: 201;
+	z-index: 181;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -601,15 +568,15 @@
 
 #u4503-4
 {
-	z-index: 202;
+	z-index: 182;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -635,7 +602,7 @@
 
 #buttonu4504
 {
-	z-index: 206;
+	z-index: 186;
 	width: 135px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -665,15 +632,15 @@
 
 #u4505-4
 {
-	z-index: 207;
+	z-index: 187;
 	width: 124px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -706,137 +673,9 @@
 	visibility: inherit;
 }
 
-#buttonu4509
-{
-	z-index: 211;
-	width: 125px;
-	border-color: #787878;
-	background-color: #FBB03B;
-	border-radius: 10px;
-	padding-bottom: 4px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1146px;
-	left: 850px;
-}
-
-#buttonu4509:hover
-{
-	background-color: #545454;
-	width: 125px;
-	min-height: 0px;
-	margin: 1146px -10000px 0px 0px;
-}
-
-#buttonu4509.ButtonSelected
-{
-	background-color: #FBB03B;
-	width: 125px;
-	min-height: 0px;
-	margin: 1146px -10000px 0px 0px;
-}
-
-#u4510-4
-{
-	z-index: 212;
-	width: 99px;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 22px;
-	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
-	font-size: 18px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	font-weight: normal;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	left: 13px;
-}
-
-#buttonu4502.ButtonSelected #u4503-4,#buttonu4509:hover #u4510-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 99px;
-	margin: 5px -10000px 0px 0px;
-}
-
-#buttonu4509:hover #u4510-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
-#buttonu4511
-{
-	z-index: 216;
-	width: 125px;
-	border-color: #787878;
-	background-color: #FBB03B;
-	border-radius: 10px;
-	padding-bottom: 4px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1136px;
-	left: 713px;
-}
-
-#buttonu4511:hover
-{
-	background-color: #545454;
-	width: 125px;
-	min-height: 0px;
-	margin: 1136px -10000px 0px 0px;
-}
-
-#buttonu4511.ButtonSelected
-{
-	background-color: #FBB03B;
-	width: 125px;
-	min-height: 0px;
-	margin: 1136px -10000px 0px 0px;
-}
-
-#u4512-4
-{
-	z-index: 217;
-	width: 99px;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 22px;
-	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
-	font-size: 18px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	font-weight: normal;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	left: 13px;
-}
-
-#buttonu4509.ButtonSelected #u4510-4,#buttonu4511:hover #u4512-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 99px;
-	margin: 5px -10000px 0px 0px;
-}
-
-#buttonu4511:hover #u4512-4 p
-{
-	color: #FFFFFF;
-	visibility: inherit;
-}
-
 #buttonu4548
 {
-	z-index: 221;
+	z-index: 191;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -844,8 +683,8 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1962px;
-	left: 761px;
+	margin-top: 1445px;
+	left: 762px;
 }
 
 #buttonu4548:hover
@@ -853,20 +692,20 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 1962px -10000px 0px 0px;
+	margin: 1445px -10000px 0px 0px;
 }
 
 #u4549-4
 {
-	z-index: 222;
+	z-index: 192;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -875,7 +714,7 @@
 	left: 13px;
 }
 
-#buttonu4511.ButtonSelected #u4512-4,#buttonu4548:hover #u4549-4
+#buttonu4502.ButtonSelected #u4503-4,#buttonu4548:hover #u4549-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -892,7 +731,7 @@
 
 #buttonu4550
 {
-	z-index: 226;
+	z-index: 196;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -900,8 +739,8 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1973px;
-	left: 896px;
+	margin-top: 1455px;
+	left: 897px;
 }
 
 #buttonu4550:hover
@@ -909,20 +748,20 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 1973px -10000px 0px 0px;
+	margin: 1455px -10000px 0px 0px;
 }
 
 #u4551-4
 {
-	z-index: 227;
+	z-index: 197;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -948,7 +787,7 @@
 
 #u4663
 {
-	z-index: 281;
+	z-index: 251;
 	width: 282px;
 	background-color: transparent;
 	position: relative;
@@ -958,7 +797,7 @@
 
 #u4768-4
 {
-	z-index: 295;
+	z-index: 263;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -968,7 +807,7 @@
 
 #u4769
 {
-	z-index: 299;
+	z-index: 267;
 	width: 289px;
 	background-color: transparent;
 	position: relative;
@@ -979,7 +818,7 @@
 
 #u4775-12
 {
-	z-index: 301;
+	z-index: 269;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -990,13 +829,13 @@
 
 #u4903
 {
-	z-index: 313;
+	z-index: 281;
 	width: 285px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1428px;
-	left: 636px;
+	margin-top: 911px;
+	left: 637px;
 }
 
 #u4903_clip
@@ -1013,7 +852,7 @@
 
 #buttonu6831
 {
-	z-index: 319;
+	z-index: 287;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1035,15 +874,15 @@
 
 #u6832-4
 {
-	z-index: 320;
+	z-index: 288;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1069,17 +908,18 @@
 
 #u7653-17
 {
-	z-index: 324;
+	z-index: 292;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1712px;
+	margin-top: 1195px;
+	left: 1px;
 }
 
 #buttonu7654
 {
-	z-index: 341;
+	z-index: 309;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1087,7 +927,8 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1962px;
+	margin-top: 1445px;
+	left: 1px;
 }
 
 #buttonu7654:hover
@@ -1095,7 +936,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 1962px -10000px 0px 0px;
+	margin: 1445px -10000px 0px 0px;
 }
 
 #buttonu4548.ButtonSelected,#buttonu7654.ButtonSelected
@@ -1103,20 +944,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 1962px -10000px 0px 0px;
+	margin: 1445px -10000px 0px 0px;
 }
 
 #u7655-4
 {
-	z-index: 342;
+	z-index: 310;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1142,7 +983,7 @@
 
 #buttonu7656
 {
-	z-index: 346;
+	z-index: 314;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1150,8 +991,8 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1973px;
-	left: 140px;
+	margin-top: 1455px;
+	left: 141px;
 }
 
 #buttonu7656:hover
@@ -1159,7 +1000,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 1973px -10000px 0px 0px;
+	margin: 1455px -10000px 0px 0px;
 }
 
 #buttonu4550.ButtonSelected,#buttonu7656.ButtonSelected
@@ -1167,20 +1008,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 1973px -10000px 0px 0px;
+	margin: 1455px -10000px 0px 0px;
 }
 
 #u7657-4
 {
-	z-index: 347;
+	z-index: 315;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1206,19 +1047,18 @@
 
 #u7658
 {
-	z-index: 351;
+	z-index: 319;
 	width: 276px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1437px;
-	left: 122px;
+	margin-top: 920px;
+	left: 123px;
 }
 
 #ppu1703-16
 {
 	width: 0.01px;
-	margin-left: -1px;
 	margin-top: 110px;
 }
 
@@ -1231,7 +1071,7 @@
 
 #u1703-16
 {
-	z-index: 94;
+	z-index: 74;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -1241,7 +1081,7 @@
 
 #buttonu4557
 {
-	z-index: 231;
+	z-index: 201;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1271,15 +1111,15 @@
 
 #u4558-4
 {
-	z-index: 232;
+	z-index: 202;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1305,7 +1145,7 @@
 
 #buttonu4559
 {
-	z-index: 236;
+	z-index: 206;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1313,7 +1153,7 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 544px;
+	margin-top: 543px;
 	left: 225px;
 }
 
@@ -1322,7 +1162,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 544px -10000px 0px 0px;
+	margin: 543px -10000px 0px 0px;
 }
 
 #buttonu4559.ButtonSelected
@@ -1330,20 +1170,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 544px -10000px 0px 0px;
+	margin: 543px -10000px 0px 0px;
 }
 
 #u4560-4
 {
-	z-index: 237;
+	z-index: 207;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1369,7 +1209,7 @@
 
 #u8161
 {
-	z-index: 401;
+	z-index: 369;
 	width: 298px;
 	background-color: transparent;
 	position: relative;
@@ -1394,7 +1234,7 @@
 
 #u1706-16
 {
-	z-index: 110;
+	z-index: 90;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -1404,7 +1244,7 @@
 
 #buttonu4562
 {
-	z-index: 241;
+	z-index: 211;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1433,15 +1273,15 @@
 
 #u4563-4
 {
-	z-index: 242;
+	z-index: 212;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1467,7 +1307,7 @@
 
 #buttonu4564
 {
-	z-index: 246;
+	z-index: 216;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1475,7 +1315,7 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 553px;
+	margin-top: 552px;
 	left: 139px;
 }
 
@@ -1484,7 +1324,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 553px -10000px 0px 0px;
+	margin: 552px -10000px 0px 0px;
 }
 
 #buttonu4564.ButtonSelected
@@ -1492,20 +1332,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 553px -10000px 0px 0px;
+	margin: 552px -10000px 0px 0px;
 }
 
 #u4565-4
 {
-	z-index: 247;
+	z-index: 217;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1532,8 +1372,7 @@
 #ppu4675
 {
 	width: 0.01px;
-	margin-left: -1px;
-	margin-top: 67px;
+	margin-top: 66px;
 }
 
 #pu4675
@@ -1555,17 +1394,17 @@
 
 #u3865-16
 {
-	z-index: 130;
+	z-index: 110;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 293px;
+	margin-top: 294px;
 }
 
 #buttonu4571
 {
-	z-index: 261;
+	z-index: 231;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1573,7 +1412,7 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 547px;
+	margin-top: 548px;
 	left: 246px;
 }
 
@@ -1582,20 +1421,20 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 547px -10000px 0px 0px;
+	margin: 548px -10000px 0px 0px;
 }
 
 #u4572-4
 {
-	z-index: 262;
+	z-index: 232;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1621,7 +1460,7 @@
 
 #buttonu4573
 {
-	z-index: 266;
+	z-index: 236;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1643,15 +1482,15 @@
 
 #u4574-4
 {
-	z-index: 267;
+	z-index: 237;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1687,17 +1526,17 @@
 
 #u3866-16
 {
-	z-index: 146;
+	z-index: 126;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 293px;
+	margin-top: 294px;
 }
 
 #buttonu4566
 {
-	z-index: 251;
+	z-index: 221;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1705,7 +1544,7 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 547px;
+	margin-top: 548px;
 	left: 9px;
 }
 
@@ -1714,7 +1553,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 547px -10000px 0px 0px;
+	margin: 548px -10000px 0px 0px;
 }
 
 #buttonu4571.ButtonSelected,#buttonu4566.ButtonSelected
@@ -1722,20 +1561,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 547px -10000px 0px 0px;
+	margin: 548px -10000px 0px 0px;
 }
 
 #u4567-4
 {
-	z-index: 252;
+	z-index: 222;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1761,7 +1600,7 @@
 
 #buttonu4568
 {
-	z-index: 256;
+	z-index: 226;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1791,15 +1630,15 @@
 
 #u4569-4
 {
-	z-index: 257;
+	z-index: 227;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1826,8 +1665,7 @@
 #ppu8125
 {
 	width: 0.01px;
-	margin-left: -1px;
-	margin-top: 79px;
+	margin-top: 80px;
 }
 
 #pu8125
@@ -1839,7 +1677,7 @@
 
 #u8125
 {
-	z-index: 355;
+	z-index: 323;
 	width: 288px;
 	background-color: transparent;
 	position: relative;
@@ -1849,17 +1687,17 @@
 
 #u8131-16
 {
-	z-index: 357;
+	z-index: 325;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 291px;
+	margin-top: 290px;
 }
 
 #buttonu8136
 {
-	z-index: 373;
+	z-index: 341;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1881,15 +1719,15 @@
 
 #u8137-4
 {
-	z-index: 374;
+	z-index: 342;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1915,7 +1753,7 @@
 
 #buttonu8138
 {
-	z-index: 378;
+	z-index: 346;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -1923,7 +1761,7 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 536px;
+	margin-top: 535px;
 	left: 225px;
 }
 
@@ -1932,7 +1770,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 536px -10000px 0px 0px;
+	margin: 535px -10000px 0px 0px;
 }
 
 #buttonu8138.ButtonSelected
@@ -1940,20 +1778,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 536px -10000px 0px 0px;
+	margin: 535px -10000px 0px 0px;
 }
 
 #u8139-4
 {
-	z-index: 379;
+	z-index: 347;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1989,17 +1827,17 @@
 
 #u3867-16
 {
-	z-index: 162;
+	z-index: 142;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 291px;
+	margin-top: 290px;
 }
 
 #buttonu4575
 {
-	z-index: 271;
+	z-index: 241;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -2007,7 +1845,7 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 557px;
+	margin-top: 556px;
 	left: 138px;
 }
 
@@ -2016,7 +1854,7 @@
 	background-color: #545454;
 	width: 125px;
 	min-height: 0px;
-	margin: 557px -10000px 0px 0px;
+	margin: 556px -10000px 0px 0px;
 }
 
 #buttonu4575.ButtonSelected
@@ -2024,20 +1862,20 @@
 	background-color: #FBB03B;
 	width: 125px;
 	min-height: 0px;
-	margin: 557px -10000px 0px 0px;
+	margin: 556px -10000px 0px 0px;
 }
 
 #u4576-4
 {
-	z-index: 272;
+	z-index: 242;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2063,7 +1901,7 @@
 
 #buttonu4577
 {
-	z-index: 276;
+	z-index: 246;
 	width: 125px;
 	border-color: #787878;
 	background-color: #FBB03B;
@@ -2093,15 +1931,15 @@
 
 #u4578-4
 {
-	z-index: 277;
+	z-index: 247;
 	width: 99px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #000000;
-	text-align: center;
-	letter-spacing: 1px;
 	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 1px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2134,7 +1972,7 @@
 	visibility: inherit;
 }
 
-#buttonu4499.ButtonSelected #u4500-6 p,#buttonu4502.ButtonSelected #u4503-4 p,#buttonu4504.ButtonSelected #u4505-4 p,#buttonu4509.ButtonSelected #u4510-4 p,#buttonu4511.ButtonSelected #u4512-4 p,#buttonu4548.ButtonSelected #u4549-4 p,#buttonu4550.ButtonSelected #u4551-4 p,#buttonu6831.ButtonSelected #u6832-4 p,#buttonu7654.ButtonSelected #u7655-4 p,#buttonu7656.ButtonSelected #u7657-4 p,#buttonu4557.ButtonSelected #u4558-4 p,#buttonu4559.ButtonSelected #u4560-4 p,#buttonu4562.ButtonSelected #u4563-4 p,#buttonu4564.ButtonSelected #u4565-4 p,#buttonu4571.ButtonSelected #u4572-4 p,#buttonu4573.ButtonSelected #u4574-4 p,#buttonu4566.ButtonSelected #u4567-4 p,#buttonu4568.ButtonSelected #u4569-4 p,#buttonu8136.ButtonSelected #u8137-4 p,#buttonu8138.ButtonSelected #u8139-4 p,#buttonu4575.ButtonSelected #u4576-4 p,#buttonu4577.ButtonSelected #u4578-4 p
+#buttonu4499.ButtonSelected #u4500-6 p,#buttonu4502.ButtonSelected #u4503-4 p,#buttonu4504.ButtonSelected #u4505-4 p,#buttonu4548.ButtonSelected #u4549-4 p,#buttonu4550.ButtonSelected #u4551-4 p,#buttonu6831.ButtonSelected #u6832-4 p,#buttonu7654.ButtonSelected #u7655-4 p,#buttonu7656.ButtonSelected #u7657-4 p,#buttonu4557.ButtonSelected #u4558-4 p,#buttonu4559.ButtonSelected #u4560-4 p,#buttonu4562.ButtonSelected #u4563-4 p,#buttonu4564.ButtonSelected #u4565-4 p,#buttonu4571.ButtonSelected #u4572-4 p,#buttonu4573.ButtonSelected #u4574-4 p,#buttonu4566.ButtonSelected #u4567-4 p,#buttonu4568.ButtonSelected #u4569-4 p,#buttonu8136.ButtonSelected #u8137-4 p,#buttonu8138.ButtonSelected #u8139-4 p,#buttonu4575.ButtonSelected #u4576-4 p,#buttonu4577.ButtonSelected #u4578-4 p
 {
 	color: #000000;
 	visibility: inherit;
@@ -2143,13 +1981,12 @@
 #pu8140
 {
 	width: 0.01px;
-	margin-left: -1px;
-	margin-top: 99px;
+	margin-top: 98px;
 }
 
 #u8140
 {
-	z-index: 383;
+	z-index: 351;
 	width: 292px;
 	background-color: transparent;
 	position: relative;
@@ -2159,7 +1996,7 @@
 
 #u8150-16
 {
-	z-index: 385;
+	z-index: 353;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -2169,14 +2006,14 @@
 
 #buttonu5635
 {
-	z-index: 315;
+	z-index: 283;
 	width: 148px;
 	border-color: #787878;
 	background-color: #8CC63F;
 	border-radius: 10px;
 	padding-bottom: 9px;
-	margin-left: 436px;
-	margin-top: 32px;
+	margin-left: 437px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -2185,12 +2022,12 @@
 	background-color: #545454;
 	width: 148px;
 	min-height: 0px;
-	margin: 32px 0px 0px 436px;
+	margin: 33px 0px 0px 437px;
 }
 
 #u5636
 {
-	z-index: 317;
+	z-index: 285;
 	height: 41px;
 	width: 119px;
 	vertical-align: top;
@@ -2206,14 +2043,14 @@
 	background: url("../images/u5636-r.png") no-repeat 0px 0px;
 }
 
-#u4755-6
+#u4755-4
 {
-	z-index: 283;
-	margin-top: 97px;
+	z-index: 253;
+	margin-top: 87px;
 	position: relative;
 }
 
-#u4755-6_img
+#u4755-4_img
 {
 	display: block;
 	vertical-align: top;

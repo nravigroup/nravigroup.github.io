@@ -1,7 +1,7 @@
 .version.archive /* version checker */
 {
-	color: #0000E8;
-	background-color: #AFE263;
+	color: #0000EB;
+	background-color: #99CABE;
 }
 
 .html
@@ -13,19 +13,18 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 857.1250000000005px;
+	min-height: 858px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-bottom: 136px;
+	padding-bottom: 18px;
 	width: 0.01px;
 }
 
@@ -514,6 +513,15 @@
 #buttonu7568:hover #u7569
 {
 	background: url("../images/u7569-r.png") no-repeat 0px 0px;
+}
+
+#u8173-4
+{
+	z-index: 68;
+	display: block;
+	vertical-align: top;
+	margin-top: 101px;
+	position: relative;
 }
 
 body

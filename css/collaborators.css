@@ -1,7 +1,7 @@
 .version.collaborators /* version checker */
 {
-	color: #00000B;
-	background-color: #D21D29;
+	color: #0000F0;
+	background-color: #68D192;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-bottom: 10px;
+	padding-bottom: 26px;
 	width: 0.01px;
 }
 
@@ -416,7 +416,7 @@
 
 #u6840-4
 {
-	z-index: 95;
+	z-index: 93;
 	display: block;
 	vertical-align: top;
 	left: -1px;
@@ -433,7 +433,7 @@
 
 #u6838-37
 {
-	z-index: 58;
+	z-index: 56;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -1px;
@@ -443,7 +443,7 @@
 
 #buttonu6843
 {
-	z-index: 99;
+	z-index: 97;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -473,14 +473,14 @@
 
 #u6844-4
 {
-	z-index: 100;
+	z-index: 98;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -506,7 +506,7 @@
 
 #buttonu6846
 {
-	z-index: 104;
+	z-index: 102;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -536,14 +536,14 @@
 
 #u6847-4
 {
-	z-index: 105;
+	z-index: 103;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -569,7 +569,7 @@
 
 #buttonu6848
 {
-	z-index: 109;
+	z-index: 107;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -599,14 +599,14 @@
 
 #u6849-4
 {
-	z-index: 110;
+	z-index: 108;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -632,7 +632,7 @@
 
 #buttonu6850
 {
-	z-index: 114;
+	z-index: 112;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -662,14 +662,14 @@
 
 #u6851-4
 {
-	z-index: 115;
+	z-index: 113;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -695,7 +695,7 @@
 
 #buttonu6852
 {
-	z-index: 119;
+	z-index: 117;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -717,14 +717,14 @@
 
 #u6853-4
 {
-	z-index: 120;
+	z-index: 118;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -750,7 +750,7 @@
 
 #buttonu6854
 {
-	z-index: 124;
+	z-index: 122;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -780,14 +780,14 @@
 
 #u6855-4
 {
-	z-index: 125;
+	z-index: 123;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -813,7 +813,7 @@
 
 #buttonu6856
 {
-	z-index: 129;
+	z-index: 127;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -843,14 +843,14 @@
 
 #u6857-4
 {
-	z-index: 130;
+	z-index: 128;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -876,7 +876,7 @@
 
 #buttonu6858
 {
-	z-index: 134;
+	z-index: 132;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -906,14 +906,14 @@
 
 #u6859-4
 {
-	z-index: 135;
+	z-index: 133;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -939,7 +939,7 @@
 
 #buttonu6860
 {
-	z-index: 139;
+	z-index: 137;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -969,14 +969,14 @@
 
 #u6861-4
 {
-	z-index: 140;
+	z-index: 138;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -1002,7 +1002,7 @@
 
 #u6862-4
 {
-	z-index: 144;
+	z-index: 142;
 	display: block;
 	vertical-align: top;
 	left: -1px;
@@ -1019,7 +1019,7 @@
 
 #u6863-17
 {
-	z-index: 148;
+	z-index: 146;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -1px;
@@ -1029,7 +1029,7 @@
 
 #buttonu6864
 {
-	z-index: 165;
+	z-index: 163;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -1059,14 +1059,14 @@
 
 #u6865-4
 {
-	z-index: 166;
+	z-index: 164;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -1092,7 +1092,7 @@
 
 #buttonu6866
 {
-	z-index: 170;
+	z-index: 168;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -1122,14 +1122,14 @@
 
 #u6867-4
 {
-	z-index: 171;
+	z-index: 169;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -1155,7 +1155,7 @@
 
 #buttonu6868
 {
-	z-index: 175;
+	z-index: 173;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -1185,14 +1185,14 @@
 
 #u6869-4
 {
-	z-index: 176;
+	z-index: 174;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -1218,7 +1218,7 @@
 
 #buttonu6870
 {
-	z-index: 180;
+	z-index: 178;
 	width: 60px;
 	border-color: #787878;
 	background-color: #C69C6D;
@@ -1248,14 +1248,14 @@
 
 #u6871-4
 {
-	z-index: 181;
+	z-index: 179;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #000000;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	letter-spacing: 1px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -1294,7 +1294,7 @@
 	visibility: inherit;
 }
 
-#u6837-6
+#u6837-4
 {
 	z-index: 52;
 	display: block;

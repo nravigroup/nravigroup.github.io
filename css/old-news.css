@@ -1,7 +1,7 @@
 .version.old_news /* version checker */
 {
-	color: #00001F;
-	background-color: #4DE74D;
+	color: #0000FD;
+	background-color: #4A7474;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-bottom: 14px;
+	padding-bottom: 30px;
 	width: 0.01px;
 }
 
@@ -389,7 +389,7 @@
 
 #u8006-6
 {
-	z-index: 51;
+	z-index: 49;
 	margin-left: 1px;
 	margin-top: 16px;
 	position: relative;
@@ -403,7 +403,7 @@
 
 #u8007
 {
-	z-index: 57;
+	z-index: 55;
 	width: 448px;
 	background-color: transparent;
 	position: relative;
@@ -412,7 +412,7 @@
 
 #u8009-8
 {
-	z-index: 59;
+	z-index: 57;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -423,7 +423,7 @@
 
 #u8010-8
 {
-	z-index: 67;
+	z-index: 65;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -434,7 +434,7 @@
 
 #u8011
 {
-	z-index: 75;
+	z-index: 73;
 	width: 453px;
 	border-width: 2px;
 	border-style: solid;
@@ -449,7 +449,7 @@
 
 #u8014
 {
-	z-index: 91;
+	z-index: 89;
 	width: 257px;
 	border-width: 1px;
 	border-style: solid;
@@ -464,7 +464,7 @@
 
 #u8013-14
 {
-	z-index: 77;
+	z-index: 75;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -481,7 +481,7 @@
 
 #u8016
 {
-	z-index: 93;
+	z-index: 91;
 	width: 420px;
 	border-width: 2px;
 	border-style: solid;
@@ -510,7 +510,7 @@
 
 #u8018-6
 {
-	z-index: 95;
+	z-index: 93;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -528,7 +528,7 @@
 
 #u8022
 {
-	z-index: 109;
+	z-index: 107;
 	width: 214px;
 	border-width: 1px;
 	border-style: solid;
@@ -543,7 +543,7 @@
 
 #u8024-6
 {
-	z-index: 111;
+	z-index: 109;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -561,7 +561,7 @@
 
 #u8025
 {
-	z-index: 117;
+	z-index: 115;
 	width: 420px;
 	border-width: 2px;
 	border-style: solid;
@@ -576,7 +576,7 @@
 
 #u8027-8
 {
-	z-index: 119;
+	z-index: 117;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -587,7 +587,7 @@
 
 #u8019
 {
-	z-index: 101;
+	z-index: 99;
 	width: 420px;
 	border-width: 2px;
 	border-style: solid;
@@ -614,7 +614,7 @@
 
 #u8021-6
 {
-	z-index: 103;
+	z-index: 101;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -632,7 +632,7 @@
 
 #u8028
 {
-	z-index: 127;
+	z-index: 125;
 	width: 319px;
 	border-width: 2px;
 	border-style: solid;
@@ -647,7 +647,7 @@
 
 #u8030-6
 {
-	z-index: 129;
+	z-index: 127;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -656,14 +656,14 @@
 	left: 330px;
 }
 
-#u8005-6
+#u8005-4
 {
 	z-index: 45;
 	margin-top: 34px;
 	position: relative;
 }
 
-#u8006-6_img,#u8005-6_img
+#u8006-6_img,#u8005-4_img
 {
 	display: block;
 	vertical-align: top;
