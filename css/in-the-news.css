@@ -1,7 +1,7 @@
 .version.in_the_news /* version checker */
 {
-	color: #00001C;
-	background-color: #DAEBF7;
+	color: #000009;
+	background-color: #4F87AA;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 930.9500000000062px;
+	min-height: 1143.9500000000062px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -403,7 +403,7 @@
 #u8041
 {
 	z-index: 50;
-	width: 299px;
+	width: 225px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -422,8 +422,41 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 75px;
-	left: 307px;
+	margin-top: 74px;
+	left: 234px;
+}
+
+#pu8201
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: 31px;
+}
+
+#u8201
+{
+	z-index: 64;
+	width: 357px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u8207-10
+{
+	z-index: 66;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+	left: 364px;
 }
 
 #buttonu8048
@@ -435,7 +468,7 @@
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-left: 436px;
-	margin-top: 39px;
+	margin-top: 100px;
 	position: relative;
 }
 
@@ -444,7 +477,7 @@
 	background-color: #545454;
 	width: 148px;
 	min-height: 0px;
-	margin: 39px 0px 0px 436px;
+	margin: 100px 0px 0px 436px;
 }
 
 #u8049
@@ -468,7 +501,7 @@
 #u4757-4
 {
 	z-index: 46;
-	margin-top: 37px;
+	margin-top: 38px;
 	position: relative;
 }
 

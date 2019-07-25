@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1563434352102">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1564057673929">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="group.css" crc="3986014675" ref="group"/>
@@ -10,7 +10,7 @@
     <file name="publications.css" crc="4272767110" ref="publications"/>
     <file name="facilities.css" crc="335092806" ref="facilities"/>
     <file name="publications-2000-2004.css" crc="4020886333" ref="publications-2000-2004"/>
-    <file name="in-the-news.css" crc="484109303" ref="in-the-news"/>
+    <file name="in-the-news.css" crc="156207018" ref="in-the-news"/>
     <file name="gallery.css" crc="3884281778" ref="gallery"/>
     <file name="archive.css" crc="3952724670" ref="archive"/>
     <file name="publications-pre-2000.css" crc="400913674" ref="publications-pre-2000"/>
@@ -188,8 +188,8 @@
     <file name="u3677-4-a.png" crc="4060423407" ref="in-the-news"/>
     <file name="u3672.png" crc="406393924" ref="in-the-news"/>
     <file name="u3672-a.png" crc="255581431" ref="in-the-news"/>
-    <file name="img-20190216-wa0000.jpg" crc="4106064635" seo="true" ref="in-the-news"/>
-    <file name="u8047-8.png" crc="3847447467" ref="in-the-news"/>
+    <file name="img-20190216-wa0000.jpg" crc="259791835" seo="true" ref="in-the-news"/>
+    <file name="u8047-8.png" crc="3758808583" ref="in-the-news"/>
     <file name="u8049.png" crc="3885324338" ref="in-the-news"/>
     <file name="u8049-r.png" crc="3829300286" ref="in-the-news"/>
     <file name="u7810-4.png" crc="3966437164" ref="gallery"/>
@@ -620,12 +620,14 @@
     <file name="u6617-4.png" crc="4270324329" ref="ravi-bio"/>
     <file name="u6837-4.png" crc="4270324329" ref="collaborators"/>
     <file name="u8005-4.png" crc="4270324329" ref="old-news"/>
+    <file name="img_20190725_174840.jpg" crc="4138175244" seo="true" ref="in-the-news"/>
+    <file name="u8207-10.png" crc="55631143" ref="in-the-news"/>
   </folder>
   <file name="index.html" crc="443557768" seo="true" mt="1563434010728" redirect="true"/>
   <file name="group.html" crc="214984484" seo="true" mt="1563433994400" redirect="true"/>
   <file name="research.html" crc="3906456049" seo="true" mt="1563434033980" redirect="true"/>
   <file name="publications.html" crc="4092678900" seo="true" mt="1563434093567" redirect="true"/>
-  <file name="in-the-news.html" crc="4217929878" seo="true" mt="1563434184186" redirect="true"/>
+  <file name="in-the-news.html" crc="4135394767" seo="true" mt="1564057555891" redirect="true"/>
   <file name="gallery.html" crc="285752307" seo="true" mt="1563434220335" redirect="true"/>
   <file name="facilities.html" crc="449013952" seo="true" mt="1563434173648" redirect="true"/>
   <file name="publications-2010-15.html" crc="452576443" seo="true" mt="1528341734462" redirect="true"/>
