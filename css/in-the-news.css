@@ -1,7 +1,7 @@
 .version.in_the_news /* version checker */
 {
-	color: #000009;
-	background-color: #4F87AA;
+	color: #00001A;
+	background-color: #4B8A53;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1143.9500000000062px;
+	min-height: 1067.950000000009px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -393,82 +393,62 @@
 	cursor: pointer;
 }
 
-#pu8041
+#u8653
 {
-	width: 0.01px;
-	margin-left: 5px;
-	margin-top: 16px;
+	z-index: 54;
+	width: 744px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 138px;
+	margin-top: 20px;
+	position: relative;
 }
 
-#u8041
+#u8623
 {
-	z-index: 50;
-	width: 225px;
+	z-index: 55;
+	width: 369px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
 }
 
-#u8047-8
+#u8629
 {
-	z-index: 52;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 74px;
-	left: 234px;
-}
-
-#pu8201
-{
-	width: 0.01px;
-	margin-left: 5px;
-	margin-top: 31px;
-}
-
-#u8201
-{
-	z-index: 64;
-	width: 357px;
+	z-index: 57;
+	width: 369px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
+	left: 373px;
 }
 
-#u8207-10
+#u8655-6
 {
-	z-index: 66;
+	z-index: 59;
 	display: block;
 	vertical-align: top;
+	margin-top: 19px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 51px;
-	left: 364px;
 }
 
 #buttonu8048
 {
-	z-index: 60;
+	z-index: 50;
 	width: 148px;
 	border-color: #787878;
 	background-color: #8CC63F;
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-left: 436px;
-	margin-top: 100px;
+	margin-top: 76px;
 	position: relative;
 }
 
@@ -477,12 +457,12 @@
 	background-color: #545454;
 	width: 148px;
 	min-height: 0px;
-	margin: 100px 0px 0px 436px;
+	margin: 76px 0px 0px 436px;
 }
 
 #u8049
 {
-	z-index: 62;
+	z-index: 52;
 	height: 41px;
 	width: 119px;
 	vertical-align: top;
@@ -501,7 +481,7 @@
 #u4757-4
 {
 	z-index: 46;
-	margin-top: 38px;
+	margin-top: 42px;
 	position: relative;
 }
 
