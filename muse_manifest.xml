@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1616495603913">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1616501244113">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="in-the-news.css" crc="376533933" ref="in-the-news"/>
@@ -189,8 +189,8 @@
     <file name="u3677-4-a.png" crc="4060423407" ref="in-the-news"/>
     <file name="u3672.png" crc="406393924" ref="in-the-news"/>
     <file name="u3672-a.png" crc="255581431" ref="in-the-news"/>
-    <file name="u9529-6.png" crc="446417626" ref="in-the-news"/>
-    <file name="u9530-8.png" crc="123987660" ref="in-the-news"/>
+    <file name="u9529-6.png" crc="3881576327" ref="in-the-news"/>
+    <file name="u9530-8.png" crc="4232300599" ref="in-the-news"/>
     <file name="apmc-group.jpg" crc="4255946343" seo="true" ref="in-the-news"/>
     <file name="group-2.jpg" crc="3987390676" seo="true" ref="in-the-news"/>
     <file name="u8655-6.png" crc="4272244803" ref="in-the-news"/>
@@ -668,7 +668,7 @@
     <file name="u9360-r.png" crc="3805795324" ref="publication-2016-2020"/>
     <file name="u9362.png" crc="431167897" ref="publication-2016-2020"/>
     <file name="u9362-r.png" crc="3903945652" ref="publication-2016-2020"/>
-    <file name="u9298-310.png" crc="513226877" ref="publication-2016-2020"/>
+    <file name="u9298-310.png" crc="427500154" ref="publication-2016-2020"/>
     <file name="u9363-4.png" crc="174918921" ref="publication-2016-2020"/>
     <file name="u9538-6.png" crc="4272991000" ref="group-ug-and-alumni"/>
     <file name="u9023-6.png" crc="176175195" ref="group-ug-and-alumni"/>
@@ -678,7 +678,7 @@
   <file name="group.html" crc="4172118582" seo="true" mt="1616493900970" redirect="true"/>
   <file name="research.html" crc="3906456049" seo="true" mt="1616480915212" redirect="true"/>
   <file name="publications.html" crc="3868780061" seo="true" mt="1616493673358" redirect="true"/>
-  <file name="in-the-news.html" crc="105772051" seo="true" mt="1616494475931" redirect="true"/>
+  <file name="in-the-news.html" crc="337749956" seo="true" mt="1616501226826" redirect="true"/>
   <file name="gallery.html" crc="290776561" seo="true" mt="1616480915285" redirect="true"/>
   <file name="facilities.html" crc="449013952" seo="true" mt="1616480915111" redirect="true"/>
   <file name="publications-2010-15.html" crc="422712373" seo="true" mt="1616493721650" redirect="true"/>
@@ -690,5 +690,5 @@
   <file name="ravi-bio.html" crc="4208499095" seo="true" mt="1616480915237" redirect="true"/>
   <file name="collaborators.html" crc="4204052094" seo="true" mt="1616480915309" redirect="true"/>
   <file name="2018.html" crc="292233790" seo="true" mt="1616480915188" redirect="true"/>
-  <file name="publication-2016-2020.html" crc="359783692" seo="true" mt="1616493710539" redirect="true"/>
+  <file name="publication-2016-2020.html" crc="368186044" seo="true" mt="1616501198735" redirect="true"/>
 </manifest>
