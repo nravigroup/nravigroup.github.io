@@ -1,7 +1,7 @@
 .version.publications_2005_09 /* version checker */
 {
-	color: #0000FB;
-	background-color: #EDC730;
+	color: #0000E1;
+	background-color: #AABAF4;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 499.97500000000036px;
+	min-height: 499.875px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-bottom: 62px;
+	padding-bottom: 26px;
 	width: 0.01px;
 }
 
@@ -387,7 +387,7 @@
 
 #u4276
 {
-	z-index: 432;
+	z-index: 411;
 	width: 1020px;
 	background-color: transparent;
 	position: relative;
@@ -399,16 +399,16 @@
 	padding-bottom: 11px;
 }
 
-#pbuttonu4082
+#pbuttonu9404
 {
 	width: 0.01px;
-	margin-left: 93px;
-	margin-top: 28px;
+	margin-left: 29px;
+	margin-top: 39px;
 }
 
-#buttonu4082
+#buttonu9404
 {
-	z-index: 47;
+	z-index: 434;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -418,9 +418,9 @@
 	margin-right: -10000px;
 }
 
-#u4083
+#u9405
 {
-	z-index: 49;
+	z-index: 436;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -428,17 +428,17 @@
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4083.png") no-repeat 0px 0px;
+	background: url("../images/u9405.png") no-repeat 0px 0px;
 }
 
-#buttonu4082:hover #u4083
+#buttonu9404:hover #u9405
 {
-	background: url("../images/u4083-r.png") no-repeat 0px 0px;
+	background: url("../images/u9405-r.png") no-repeat 0px 0px;
 }
 
-#buttonu4084
+#buttonu9394
 {
-	z-index: 51;
+	z-index: 413;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -446,12 +446,12 @@
 	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
-	left: 185px;
+	left: 171px;
 }
 
-#u4085
+#u9395
 {
-	z-index: 53;
+	z-index: 415;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -459,17 +459,17 @@
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4085.png") no-repeat 0px 0px;
+	background: url("../images/u9395.png") no-repeat 0px 0px;
 }
 
-#buttonu4084:hover #u4085
+#buttonu9394:hover #u9395
 {
-	background: url("../images/u4085-r.png") no-repeat 0px 0px;
+	background: url("../images/u9395-r.png") no-repeat 0px 0px;
 }
 
-#buttonu4086
+#buttonu9396
 {
-	z-index: 55;
+	z-index: 417;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -477,10 +477,41 @@
 	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
-	left: 370px;
+	left: 342px;
 }
 
-#buttonu4086.ButtonSelected
+#u9397
+{
+	z-index: 419;
+	height: 24px;
+	width: 88px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+	background: url("../images/u9397.png") no-repeat 0px 0px;
+}
+
+#buttonu9396:hover #u9397
+{
+	background: url("../images/u9397-r.png") no-repeat 0px 0px;
+}
+
+#buttonu9398
+{
+	z-index: 421;
+	width: 106px;
+	border-color: #787878;
+	background-color: #7FDFFF;
+	border-radius: 10px;
+	padding-bottom: 7px;
+	position: relative;
+	margin-right: -10000px;
+	left: 513px;
+}
+
+#buttonu9398.ButtonSelected
 {
 	background-color: #7FDFFF;
 	width: 106px;
@@ -488,9 +519,9 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u4087-4
+#u9399-4
 {
-	z-index: 56;
+	z-index: 422;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -499,9 +530,9 @@
 	left: 10px;
 }
 
-#buttonu4088
+#buttonu9400
 {
-	z-index: 60;
+	z-index: 426;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -509,12 +540,12 @@
 	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
-	left: 555px;
+	left: 684px;
 }
 
-#u4089
+#u9401
 {
-	z-index: 62;
+	z-index: 428;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -522,17 +553,17 @@
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4089.png") no-repeat 0px 0px;
+	background: url("../images/u9401.png") no-repeat 0px 0px;
 }
 
-#buttonu4088:hover #u4089
+#buttonu9400:hover #u9401
 {
-	background: url("../images/u4089-r.png") no-repeat 0px 0px;
+	background: url("../images/u9401-r.png") no-repeat 0px 0px;
 }
 
-#buttonu4090
+#buttonu9402
 {
-	z-index: 64;
+	z-index: 430;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -540,10 +571,10 @@
 	padding-bottom: 6px;
 	position: relative;
 	margin-right: -10000px;
-	left: 740px;
+	left: 855px;
 }
 
-#buttonu4082:hover,#buttonu4084:hover,#buttonu4088:hover,#buttonu4090:hover
+#buttonu9404:hover,#buttonu9394:hover,#buttonu9396:hover,#buttonu9400:hover,#buttonu9402:hover
 {
 	background-color: #545454;
 	width: 106px;
@@ -551,9 +582,9 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u4091
+#u9403
 {
-	z-index: 66;
+	z-index: 432;
 	height: 25px;
 	width: 88px;
 	vertical-align: top;
@@ -561,22 +592,35 @@
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4091.png") no-repeat 0px 0px;
+	background: url("../images/u9403.png") no-repeat 0px 0px;
 }
 
-#buttonu4090:hover #u4091
+#buttonu9402:hover #u9403
 {
-	background: url("../images/u4091-r.png") no-repeat 0px 0px;
+	background: url("../images/u9403-r.png") no-repeat 0px 0px;
 }
 
 #u4092-364
 {
-	z-index: 68;
+	z-index: 47;
 	display: block;
 	vertical-align: top;
 	left: -1px;
-	margin-top: 49px;
+	margin-top: 38px;
 	position: relative;
+}
+
+#u9513-4
+{
+	z-index: 438;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u9513-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.in_the_news /* version checker */
 {
-	color: #00001A;
-	background-color: #4B8A53;
+	color: #000016;
+	background-color: #7173AD;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1067.950000000009px;
+	min-height: 1396.9500000000087px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -393,6 +393,24 @@
 	cursor: pointer;
 }
 
+#u9529-6
+{
+	z-index: 65;
+	display: block;
+	vertical-align: top;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u9530-8
+{
+	z-index: 71;
+	display: block;
+	vertical-align: top;
+	margin-top: 52px;
+	position: relative;
+}
+
 #u8653
 {
 	z-index: 54;
@@ -401,7 +419,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 138px;
-	margin-top: 20px;
+	margin-top: 84px;
 	position: relative;
 }
 
@@ -435,7 +453,7 @@
 	z-index: 59;
 	display: block;
 	vertical-align: top;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -448,7 +466,7 @@
 	border-radius: 10px;
 	padding-bottom: 9px;
 	margin-left: 436px;
-	margin-top: 76px;
+	margin-top: 91px;
 	position: relative;
 }
 
@@ -457,7 +475,7 @@
 	background-color: #545454;
 	width: 148px;
 	min-height: 0px;
-	margin: 76px 0px 0px 436px;
+	margin: 91px 0px 0px 436px;
 }
 
 #u8049
@@ -481,7 +499,7 @@
 #u4757-4
 {
 	z-index: 46;
-	margin-top: 42px;
+	margin-top: 67px;
 	position: relative;
 }
 

@@ -1,7 +1,7 @@
 .version.publications_2010_15 /* version checker */
 {
-	color: #0000F4;
-	background-color: #27ADE7;
+	color: #0000F7;
+	background-color: #C01F52;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 962.6750000000002px;
+	min-height: 962.875px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-bottom: 62px;
+	padding-bottom: 19px;
 	width: 0.01px;
 }
 
@@ -387,7 +387,7 @@
 
 #u4273
 {
-	z-index: 435;
+	z-index: 415;
 	width: 1020px;
 	background-color: transparent;
 	position: relative;
@@ -399,16 +399,16 @@
 	padding-bottom: 11px;
 }
 
-#pbuttonu4019
+#pbuttonu9378
 {
 	width: 0.01px;
-	margin-left: 87px;
-	margin-top: 35px;
+	margin-left: 29px;
+	margin-top: 40px;
 }
 
-#buttonu4019
+#buttonu9378
 {
-	z-index: 415;
+	z-index: 438;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -418,74 +418,58 @@
 	margin-right: -10000px;
 }
 
-#u4020
+#u9379
+{
+	z-index: 440;
+	height: 24px;
+	width: 88px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+	background: url("../images/u9379.png") no-repeat 0px 0px;
+}
+
+#buttonu9378:hover #u9379
+{
+	background: url("../images/u9379-r.png") no-repeat 0px 0px;
+}
+
+#buttonu9368
 {
 	z-index: 417;
-	height: 24px;
-	width: 88px;
-	vertical-align: top;
+	width: 106px;
+	border-color: #787878;
+	background-color: #7FDFFF;
+	border-radius: 10px;
+	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 10px;
-	background: url("../images/u4020.png") no-repeat 0px 0px;
+	left: 171px;
 }
 
-#buttonu4019:hover #u4020
-{
-	background: url("../images/u4020-r.png") no-repeat 0px 0px;
-}
-
-#buttonu4021
+#u9369
 {
 	z-index: 419;
-	width: 106px;
-	border-color: #787878;
-	background-color: #7FDFFF;
-	border-radius: 10px;
-	padding-bottom: 7px;
+	height: 24px;
+	width: 88px;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: 185px;
+	margin-top: 7px;
+	left: 10px;
+	background: url("../images/u9369.png") no-repeat 0px 0px;
 }
 
-#buttonu4019:hover,#buttonu4021:hover
+#buttonu9368:hover #u9369
 {
-	background-color: #545454;
-	width: 106px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	background: url("../images/u9369-r.png") no-repeat 0px 0px;
 }
 
-#buttonu4021.ButtonSelected
-{
-	background-color: #7FDFFF;
-	width: 106px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4022
+#buttonu9370
 {
 	z-index: 421;
-	height: 24px;
-	width: 88px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 10px;
-	background: url("../images/u4022.png") no-repeat 0px 0px;
-}
-
-#buttonu4021:hover #u4022
-{
-	background: url("../images/u4022-r.png") no-repeat 0px 0px;
-}
-
-#buttonu4023
-{
-	z-index: 423;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -493,30 +477,31 @@
 	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
-	left: 370px;
+	left: 342px;
 }
 
-#u4024
+#buttonu9370.ButtonSelected
 {
-	z-index: 425;
-	height: 24px;
-	width: 88px;
+	background-color: #7FDFFF;
+	width: 106px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u9371-4
+{
+	z-index: 422;
+	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4024.png") no-repeat 0px 0px;
 }
 
-#buttonu4023:hover #u4024
+#buttonu9372
 {
-	background: url("../images/u4024-r.png") no-repeat 0px 0px;
-}
-
-#buttonu4025
-{
-	z-index: 427;
+	z-index: 426;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -524,12 +509,12 @@
 	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
-	left: 555px;
+	left: 513px;
 }
 
-#u4026
+#u9373
 {
-	z-index: 429;
+	z-index: 428;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -537,17 +522,48 @@
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4026.png") no-repeat 0px 0px;
+	background: url("../images/u9373.png") no-repeat 0px 0px;
 }
 
-#buttonu4025:hover #u4026
+#buttonu9372:hover #u9373
 {
-	background: url("../images/u4026-r.png") no-repeat 0px 0px;
+	background: url("../images/u9373-r.png") no-repeat 0px 0px;
 }
 
-#buttonu4027
+#buttonu9374
 {
-	z-index: 431;
+	z-index: 430;
+	width: 106px;
+	border-color: #787878;
+	background-color: #7FDFFF;
+	border-radius: 10px;
+	padding-bottom: 7px;
+	position: relative;
+	margin-right: -10000px;
+	left: 684px;
+}
+
+#u9375
+{
+	z-index: 432;
+	height: 24px;
+	width: 88px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 10px;
+	background: url("../images/u9375.png") no-repeat 0px 0px;
+}
+
+#buttonu9374:hover #u9375
+{
+	background: url("../images/u9375-r.png") no-repeat 0px 0px;
+}
+
+#buttonu9376
+{
+	z-index: 434;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -555,10 +571,10 @@
 	padding-bottom: 6px;
 	position: relative;
 	margin-right: -10000px;
-	left: 740px;
+	left: 855px;
 }
 
-#buttonu4023:hover,#buttonu4025:hover,#buttonu4027:hover
+#buttonu9378:hover,#buttonu9368:hover,#buttonu9372:hover,#buttonu9374:hover,#buttonu9376:hover
 {
 	background-color: #545454;
 	width: 106px;
@@ -566,9 +582,9 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u4028
+#u9377
 {
-	z-index: 433;
+	z-index: 436;
 	height: 25px;
 	width: 88px;
 	vertical-align: top;
@@ -576,12 +592,12 @@
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 10px;
-	background: url("../images/u4028.png") no-repeat 0px 0px;
+	background: url("../images/u9377.png") no-repeat 0px 0px;
 }
 
-#buttonu4027:hover #u4028
+#buttonu9376:hover #u9377
 {
-	background: url("../images/u4028-r.png") no-repeat 0px 0px;
+	background: url("../images/u9377-r.png") no-repeat 0px 0px;
 }
 
 #u3998-368
@@ -590,8 +606,21 @@
 	display: block;
 	vertical-align: top;
 	left: -1px;
-	margin-top: 45px;
+	margin-top: 40px;
 	position: relative;
+}
+
+#u9512-4
+{
+	z-index: 442;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u9512-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 
 body
