@@ -1,7 +1,7 @@
 .version.publication_2016_2020 /* version checker */
 {
-	color: #0000F2;
-	background-color: #0D33BE;
+	color: #00001D;
+	background-color: #D9A58D;
 }
 
 .html
@@ -31,7 +31,7 @@
 
 #u9301
 {
-	z-index: 314;
+	z-index: 297;
 	width: 1020px;
 	background-color: #FBB03B;
 	padding-bottom: 26px;
@@ -41,7 +41,7 @@
 
 #u9352-4
 {
-	z-index: 351;
+	z-index: 334;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -58,7 +58,7 @@
 
 #u9299
 {
-	z-index: 312;
+	z-index: 295;
 	width: 1020px;
 	background-color: transparent;
 	position: relative;
@@ -72,7 +72,7 @@
 
 #menuu9302
 {
-	z-index: 315;
+	z-index: 298;
 	width: 1020px;
 	border-style: none;
 	border-color: transparent;
@@ -397,7 +397,7 @@
 
 #buttonu9365
 {
-	z-index: 380;
+	z-index: 363;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -409,7 +409,7 @@
 
 #u9366
 {
-	z-index: 382;
+	z-index: 365;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -427,7 +427,7 @@
 
 #buttonu9353
 {
-	z-index: 355;
+	z-index: 338;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -448,7 +448,7 @@
 
 #u9354-4
 {
-	z-index: 356;
+	z-index: 339;
 	position: relative;
 	width: 88px;
 	margin-right: -10000px;
@@ -458,7 +458,7 @@
 
 #buttonu9355
 {
-	z-index: 360;
+	z-index: 343;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -471,7 +471,7 @@
 
 #u9356
 {
-	z-index: 362;
+	z-index: 345;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -489,7 +489,7 @@
 
 #buttonu9357
 {
-	z-index: 364;
+	z-index: 347;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -502,7 +502,7 @@
 
 #u9358
 {
-	z-index: 366;
+	z-index: 349;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -520,7 +520,7 @@
 
 #buttonu9359
 {
-	z-index: 368;
+	z-index: 351;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -533,7 +533,7 @@
 
 #u9360
 {
-	z-index: 370;
+	z-index: 353;
 	height: 24px;
 	width: 88px;
 	vertical-align: top;
@@ -551,7 +551,7 @@
 
 #buttonu9361
 {
-	z-index: 372;
+	z-index: 355;
 	width: 106px;
 	border-color: #787878;
 	background-color: #7FDFFF;
@@ -572,7 +572,7 @@
 
 #u9362
 {
-	z-index: 374;
+	z-index: 357;
 	height: 25px;
 	width: 88px;
 	vertical-align: top;
@@ -588,7 +588,7 @@
 	background: url("../images/u9362-r.png") no-repeat 0px 0px;
 }
 
-#u9298-310
+#u9298-293
 {
 	z-index: 2;
 	display: block;
@@ -600,7 +600,7 @@
 
 #u9363-4
 {
-	z-index: 376;
+	z-index: 359;
 	margin-left: 20px;
 	margin-top: 20px;
 	position: relative;
