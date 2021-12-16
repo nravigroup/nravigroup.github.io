@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1639655886944">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1639656259629">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="in-the-news.css" crc="4210195507" ref="in-the-news"/>
@@ -10,7 +10,7 @@
     <file name="index.css" crc="209361119" ref="index"/>
     <file name="publications-pre-2000.css" crc="160440229" ref="publications-pre-2000"/>
     <file name="archive.css" crc="3952724670" ref="archive"/>
-    <file name="publications.css" crc="419725009" ref="publications"/>
+    <file name="publications.css" crc="3968679380" ref="publications"/>
     <file name="gallery.css" crc="4215416249" ref="gallery"/>
     <file name="research.css" crc="162401240" ref="research"/>
     <file name="ravi-bio.css" crc="4052486590" ref="ravi-bio"/>
@@ -676,14 +676,14 @@
     <file name="u9610-4.png" crc="103689664" ref="group"/>
     <file name="dorothy.jpg" crc="3842259872" seo="true" ref="group"/>
     <file name="u9623-16.png" crc="4254160432" ref="group"/>
-    <file name="u4231-38.png" crc="4044732106" ref="publications"/>
     <file name="u9600-6.png" crc="3919572632" ref="in-the-news"/>
     <file name="u9298-293.png" crc="3912068835" ref="publication-2016-2020"/>
+    <file name="u4231-40.png" crc="518916867" ref="publications"/>
   </folder>
   <file name="index.html" crc="443557768" seo="true" mt="1616480915384" redirect="true"/>
   <file name="group.html" crc="3973484458" seo="true" mt="1639549603517" redirect="true"/>
   <file name="research.html" crc="3906456049" seo="true" mt="1616480915212" redirect="true"/>
-  <file name="publications.html" crc="226514791" seo="true" mt="1639632789977" redirect="true"/>
+  <file name="publications.html" crc="228201069" seo="true" mt="1639656247715" redirect="true"/>
   <file name="in-the-news.html" crc="90560554" seo="true" mt="1639546244466" redirect="true"/>
   <file name="gallery.html" crc="290776561" seo="true" mt="1616480915285" redirect="true"/>
   <file name="facilities.html" crc="449013952" seo="true" mt="1616480915111" redirect="true"/>
