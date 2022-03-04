@@ -1,7 +1,7 @@
 .version.research /* version checker */
 {
-	color: #000009;
-	background-color: #AE0BD8;
+	color: #000019;
+	background-color: #B19811;
 }
 
 .html
@@ -455,11 +455,11 @@
 	width: 125px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 22px;
+	letter-spacing: 1px;
 	color: #000000;
 	font-size: 18px;
 	text-align: center;
-	letter-spacing: 1px;
+	line-height: 22px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

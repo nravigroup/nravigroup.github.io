@@ -1,7 +1,7 @@
 .version.in_the_news /* version checker */
 {
-	color: #0000FA;
-	background-color: #F27C33;
+	color: #000001;
+	background-color: #2EC793;
 }
 
 .html
@@ -393,12 +393,21 @@
 	cursor: pointer;
 }
 
+#u9755-6
+{
+	z-index: 85;
+	display: block;
+	vertical-align: top;
+	margin-top: 22px;
+	position: relative;
+}
+
 #u9600-6
 {
 	z-index: 79;
 	display: block;
 	vertical-align: top;
-	margin-top: 27px;
+	margin-top: 26px;
 	position: relative;
 }
 
@@ -407,7 +416,7 @@
 	z-index: 65;
 	display: block;
 	vertical-align: top;
-	margin-top: 35px;
+	margin-top: 25px;
 	position: relative;
 }
 
@@ -416,7 +425,7 @@
 	z-index: 71;
 	display: block;
 	vertical-align: top;
-	margin-top: 36px;
+	margin-top: 26px;
 	position: relative;
 }
 
@@ -428,7 +437,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 138px;
-	margin-top: 46px;
+	margin-top: 30px;
 	position: relative;
 }
 
@@ -508,7 +517,7 @@
 #u4757-4
 {
 	z-index: 46;
-	margin-top: 119px;
+	margin-top: 56px;
 	position: relative;
 }
 
