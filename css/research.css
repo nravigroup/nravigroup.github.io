@@ -1,7 +1,7 @@
 .version.research /* version checker */
 {
-	color: #000019;
-	background-color: #B19811;
+	color: #00000B;
+	background-color: #000188;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 3573.9999999999977px;
+	min-height: 4583.999999999998px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -516,12 +516,196 @@
 	position: relative;
 }
 
+#u9817-4
+{
+	z-index: 218;
+	display: block;
+	vertical-align: top;
+	left: -2px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#pu9848
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 25px;
+}
+
+#u9848
+{
+	z-index: 252;
+	width: 394px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 84px;
+}
+
+#u9818-4
+{
+	z-index: 222;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 414px;
+}
+
+#pu9825-4
+{
+	width: 0.01px;
+	margin-left: 425px;
+	margin-top: 4px;
+}
+
+#u9825-4
+{
+	z-index: 226;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#buttonu9826
+{
+	z-index: 230;
+	width: 69px;
+	border-color: #787878;
+	background-color: #00FFFF;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 387px;
+}
+
+#buttonu9826:hover
+{
+	background-color: #545454;
+	width: 69px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u9827
+{
+	z-index: 232;
+	height: 23px;
+	width: 60px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 5px;
+	background: url("../images/u9827.png") no-repeat 0px 0px;
+}
+
+#buttonu9826:hover #u9827
+{
+	background: url("../images/u9827-r.png") no-repeat 0px 0px;
+}
+
+#u9834-4
+{
+	z-index: 234;
+	display: block;
+	vertical-align: top;
+	left: -2px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#pu9836
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 23px;
+}
+
+#u9836
+{
+	z-index: 242;
+	width: 465px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+}
+
+#u9835-4
+{
+	z-index: 238;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 479px;
+}
+
+#pu9845-4
+{
+	width: 0.01px;
+	margin-left: 494px;
+	margin-top: 12px;
+}
+
+#u9845-4
+{
+	z-index: 244;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#buttonu9846
+{
+	z-index: 248;
+	width: 69px;
+	border-color: #787878;
+	background-color: #00FFFF;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 387px;
+}
+
+#buttonu9846:hover
+{
+	background-color: #545454;
+	width: 69px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u9847
+{
+	z-index: 250;
+	height: 23px;
+	width: 60px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 5px;
+	background: url("../images/u9847.png") no-repeat 0px 0px;
+}
+
+#buttonu9846:hover #u9847
+{
+	background: url("../images/u9847-r.png") no-repeat 0px 0px;
+}
+
 #u7570-7
 {
 	z-index: 189;
 	display: block;
 	vertical-align: top;
-	left: -1px;
+	left: -2px;
 	margin-top: 23px;
 	position: relative;
 }
@@ -562,7 +746,7 @@
 {
 	width: 0.01px;
 	margin-left: 496px;
-	margin-top: -3px;
+	margin-top: -2px;
 }
 
 #u7581-4
@@ -617,15 +801,14 @@
 	z-index: 69;
 	display: block;
 	vertical-align: top;
-	left: -1px;
-	margin-top: 22px;
+	left: -2px;
+	margin-top: 21px;
 	position: relative;
 }
 
 #pu4819
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 22px;
 }
 
@@ -710,6 +893,7 @@
 	z-index: 87;
 	display: block;
 	vertical-align: top;
+	left: -1px;
 	margin-top: 35px;
 	position: relative;
 }
@@ -717,8 +901,7 @@
 #pu4915
 {
 	width: 0.01px;
-	margin-left: 1px;
-	margin-top: 36px;
+	margin-top: 37px;
 }
 
 #u4915
@@ -779,7 +962,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#buttonu7582.ButtonSelected,#buttonu4826.ButtonSelected,#buttonu4923.ButtonSelected
+#buttonu9826.ButtonSelected,#buttonu9846.ButtonSelected,#buttonu7582.ButtonSelected,#buttonu4826.ButtonSelected,#buttonu4923.ButtonSelected
 {
 	background-color: #00FFFF;
 	width: 69px;
@@ -810,14 +993,15 @@
 	z-index: 91;
 	display: block;
 	vertical-align: top;
-	margin-top: 33px;
+	left: -1px;
+	margin-top: 32px;
 	position: relative;
 }
 
 #pu4838
 {
 	width: 0.01px;
-	margin-left: 2px;
+	margin-left: 1px;
 	margin-top: 33px;
 }
 
@@ -909,15 +1093,15 @@
 	z-index: 121;
 	display: block;
 	vertical-align: top;
-	margin-top: 38px;
+	left: -1px;
+	margin-top: 39px;
 	position: relative;
 }
 
 #pu4850
 {
 	width: 0.01px;
-	margin-left: 1px;
-	margin-top: 31px;
+	margin-top: 30px;
 }
 
 #u4850
@@ -949,7 +1133,7 @@
 #pu4857-4
 {
 	width: 0.01px;
-	margin-left: 496px;
+	margin-left: 495px;
 }
 
 #u4857-4
@@ -1014,6 +1198,7 @@
 	z-index: 148;
 	display: block;
 	vertical-align: top;
+	left: -1px;
 	margin-top: 13px;
 	position: relative;
 }
@@ -1021,7 +1206,6 @@
 #pu4873
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 33px;
 }
 
@@ -1163,7 +1347,7 @@
 	z-index: 49;
 	display: block;
 	vertical-align: top;
-	margin-top: 74px;
+	margin-top: 160px;
 	position: relative;
 }
 
