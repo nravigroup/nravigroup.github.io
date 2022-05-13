@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1646463472867">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nravigroup.github.io" resolutions="1x" timestamp="1652426771720">
   <folder name="css">
     <file name="site_global.css" crc="494395278"/>
     <file name="in-the-news.css" crc="4031478205" ref="in-the-news"/>
@@ -10,13 +10,13 @@
     <file name="index.css" crc="209361119" ref="index"/>
     <file name="publications-pre-2000.css" crc="160440229" ref="publications-pre-2000"/>
     <file name="archive.css" crc="3952724670" ref="archive"/>
-    <file name="publications.css" crc="422815374" ref="publications"/>
+    <file name="publications.css" crc="402689647" ref="publications"/>
     <file name="gallery.css" crc="525528334" ref="gallery"/>
     <file name="research.css" crc="184549768" ref="research"/>
     <file name="ravi-bio.css" crc="4052486590" ref="ravi-bio"/>
     <file name="facilities.css" crc="335092806" ref="facilities"/>
     <file name="publications-2000-2004.css" crc="4057664859" ref="publications-2000-2004"/>
-    <file name="group.css" crc="233004773" ref="group"/>
+    <file name="group.css" crc="269868245" ref="group"/>
     <file name="collaborators.css" crc="22712066" ref="collaborators"/>
   </folder>
   <folder name="scripts">
@@ -81,9 +81,6 @@
     <file name="u1703-16.png" crc="447592793" ref="group"/>
     <file name="u3865-16.png" crc="3991284254" ref="group"/>
     <file name="sir.png" crc="209890561" seo="true" ref="group:ravi-bio"/>
-    <file name="u4768-4.png" crc="4252444708" ref="group"/>
-    <file name="deepa-ma-am.png" crc="385796863" seo="true" ref="group"/>
-    <file name="u4775-12.png" crc="4048101802" ref="group"/>
     <file name="u8515-4.png" crc="134998679" ref="group"/>
     <file name="naveen.png" crc="4117876474" seo="true" ref="group"/>
     <file name="u8150-16.png" crc="472311365" ref="group"/>
@@ -678,7 +675,6 @@
     <file name="u9623-16.png" crc="4254160432" ref="group"/>
     <file name="u9600-6.png" crc="339361951" ref="in-the-news"/>
     <file name="u9298-293.png" crc="3912068835" ref="publication-2016-2020"/>
-    <file name="u4231-49.png" crc="4150024541" ref="publications"/>
     <file name="u9755-6.png" crc="77609757" ref="in-the-news"/>
     <file name="img_20220225_141655.jpg" crc="152163670" seo="true" ref="gallery"/>
     <file name="img_20220225_141655135x101.jpg" crc="60914852" seo="true" ref="gallery"/>
@@ -699,11 +695,12 @@
     <file name="1646458515289336x234.jpg" crc="3777716027" seo="true" ref="in-the-news"/>
     <file name="1646458515289.jpg" crc="4132140559" seo="true" ref="gallery"/>
     <file name="164645851528965x45.jpg" crc="4176040995" seo="true" ref="gallery"/>
+    <file name="u4231-70.png" crc="372804955" ref="publications"/>
   </folder>
   <file name="index.html" crc="443557768" seo="true" mt="1646306154676" redirect="true"/>
-  <file name="group.html" crc="4008729718" seo="true" mt="1646458994382" redirect="true"/>
+  <file name="group.html" crc="3996773884" seo="true" mt="1647421783944" redirect="true"/>
   <file name="research.html" crc="383891706" seo="true" mt="1646463452573" redirect="true"/>
-  <file name="publications.html" crc="4018685812" seo="true" mt="1646457252829" redirect="true"/>
+  <file name="publications.html" crc="393097860" seo="true" mt="1652426746653" redirect="true"/>
   <file name="in-the-news.html" crc="4265476017" seo="true" mt="1646458732786" redirect="true"/>
   <file name="gallery.html" crc="131810362" seo="true" mt="1646458533525" redirect="true"/>
   <file name="facilities.html" crc="449013952" seo="true" mt="1646306154676" redirect="true"/>
